@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ SOUTH CAROLINA ============ -->
+  <!-- SC DOR main -->
+  <url><loc>https://dor.sc.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dor.sc.gov/tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Personal income tax -->
+  <url><loc>https://dor.sc.gov/tax/individual-income</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/SC1040_Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/SC1040.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Corporate / business -->
+  <url><loc>https://dor.sc.gov/tax/corporate</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/SC1120_Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/SC1120S_Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/SC1065_Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- PTE election -->
+  <url><loc>https://dor.sc.gov/tax/pass-through</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dor.sc.gov/forms-site/Forms/I338.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Statutes - Title 12 -->
+  <url><loc>https://www.scstatehouse.gov/code/title12.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.scstatehouse.gov/code/t12c006.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.scstatehouse.gov/code/t12c008.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.scstatehouse.gov/code/t12c036.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Admin code / regs -->
+  <url><loc>https://www.scstatehouse.gov/coderegs/Chapter%20117.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://dor.sc.gov/policy</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://dor.sc.gov/resources-site/lawandpolicy/Pages/Advisory-Opinions.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Income tax rates / brackets -->
+  <url><loc>https://dor.sc.gov/tax/individual-income/rates</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Retirement / military / age 65 -->
+  <url><loc>https://dor.sc.gov/tax/individual-income/retirement</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/tax/individual-income/military</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Sales/Use -->
+  <url><loc>https://dor.sc.gov/tax/sales</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dor.sc.gov/tax/sales/rates</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dor.sc.gov/tax/use</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Property -->
+  <url><loc>https://dor.sc.gov/tax/property</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dor.sc.gov/tax/property/individual</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Withholding -->
+  <url><loc>https://dor.sc.gov/tax/withholding</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Credits -->
+  <url><loc>https://dor.sc.gov/tax/credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

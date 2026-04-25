@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Kentucky Department of Revenue - Main Pages -->
+  <url><loc>https://revenue.ky.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Business/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Get-Help/Pages/Forms.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/News/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Individual Income Tax Forms -->
+  <url><loc>https://revenue.ky.gov/Forms/740%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740%20Packet%20Instructions%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-NP.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-NP-R%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-NP%20Instructions%20Packet.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-ES%20FINAL.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Pass-Through Entity Tax (PTET) -->
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-PTET%202024.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20PTET%20Instructions.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-PTET-ES.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Corporate / Pass-Through Forms -->
+  <url><loc>https://revenue.ky.gov/Forms/Form%20720.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Instructions%20720.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20725%20Instructions.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/INSTR_Form%20725.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Sales / Use Tax -->
+  <url><loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Statutes - KRS Chapter 141 (Income Taxes) -->
+  <url><loc>https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37674</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28161</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Administrative Regulations -->
+  <url><loc>https://apps.legislature.ky.gov/Law/kar/titles/103/015/050/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky Local Occupational License Tax -->
+  <url><loc>https://louisvilleky.gov/revenue-commission/forms/form-ol-3-occupational-license-return</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://louisvilleky.gov/sites/default/files/2024-12/ol-3_instructions_2024.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://louisvilleky.gov/government/revenue-commission/forms-and-publications</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://louisvilleky.gov/government/revenue-commission/ol-3-tax-form-instructions</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-prior-year-forms</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Kentucky CPA Society reference -->
+  <url><loc>https://www.kycpa.org/writable/files/kycpa_ptet_faqs_summary_sep_2023.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Justia mirror of KRS Chapter 141 -->
+  <url><loc>https://law.justia.com/codes/kentucky/chapter-141/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/kentucky/chapter-141/section-141-020/</loc><lastmod>2026-04-24</lastmod></url>
+</urlset>

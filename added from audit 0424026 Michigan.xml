@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ MICHIGAN ============ -->
+  <!-- MI Treasury main -->
+  <url><loc>https://www.michigan.gov/treasury</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.michigan.gov/taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/iit</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Personal income tax -->
+  <url><loc>https://www.michigan.gov/taxes/iit/forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/iit/new-developments-for-tax-year-2024</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/iit/accordion/general/who-must-file-a-michigan-individual-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- MI-1040 and credits -->
+  <url><loc>https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/2024/2024-IIT-Forms/MI-1040.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/iit/credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/iit/homestead</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Corporate / business -->
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/cit</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/cit/forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Flow-through entity tax (PTE / SALT cap workaround) -->
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/flow-through-entity-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/flow-through-entity-tax/notices</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/flow-through-entity-tax/forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/flow-through-entity-tax/faqs</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Statutes - MCL Chapter 206 (Income Tax Act) -->
+  <url><loc>https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-281-of-1967</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-206-1</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-206-51</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-206-813</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/michigan/chapter-206/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Admin / regs -->
+  <url><loc>https://www.michigan.gov/taxes/reports/letter-rulings</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/reports/notice</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/reports/rab</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Retirement income / pension subtraction -->
+  <url><loc>https://www.michigan.gov/taxes/iit/retirement-and-pension-benefits</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Sales / Use -->
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/sales-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/sales-use-tax/sales-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/sales-use-tax/use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Withholding -->
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/withholding</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- City Income Tax (Detroit, Grand Rapids, etc.) -->
+  <url><loc>https://www.michigan.gov/taxes/city-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/city-tax/detroit</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.michigan.gov/taxes/city-tax/non-detroit</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.grandrapidsmi.gov/Government/Departments/Income-Tax-Department</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Property tax -->
+  <url><loc>https://www.michigan.gov/taxes/property</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

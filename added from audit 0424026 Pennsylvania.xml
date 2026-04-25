@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ PENNSYLVANIA ============ -->
+  <!-- PA DOR main -->
+  <url><loc>https://www.revenue.pa.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.pa.gov/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.pa.gov/FormsandPublications/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mypath.pa.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Personal Income Tax (PIT) -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/PIT/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/PIT/Pages/PIT-Class.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/PIT/Pages/Tax-Rates.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/FormsandPublications/FormsforIndividuals/PIT/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Corporate Net Income Tax (CNIT) -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/CT/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/CT/Pages/Tax-Rates.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/FormsandPublications/FormsforBusinesses/CT/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- PA Sales / Use -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/SUT/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Tax-Rates.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Inheritance Tax -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/InheritanceTax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.pa.gov/FormsandPublications/FormsforIndividuals/InheritanceTax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Withholding / Employer -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/EmployerWithholding/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Local PA taxes: Earned Income Tax + PSD codes -->
+  <url><loc>https://dced.pa.gov/local-government/local-income-tax-information/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://munstats.pa.gov/Public/FindLocalTax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dced.pa.gov/local-government/local-income-tax-information/psd-codes/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Philadelphia city taxes -->
+  <url><loc>https://www.phila.gov/departments/department-of-revenue/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/business-taxes/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/business-taxes/business-income-receipts-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/business-taxes/wage-tax-employers/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/income-taxes/earnings-tax-employees/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/income-taxes/school-income-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.phila.gov/services/payments-assistance-taxes/business-taxes/net-profits-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Reciprocity / nonresident -->
+  <url><loc>https://www.revenue.pa.gov/TaxTypes/PIT/Pages/Reciprocal-Compensation-Agreement-Income-Tax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- PA statutes -->
+  <url><loc>https://www.legis.state.pa.us/cfdocs/legis/LI/Public/cons_index.cfm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.palrb.us/pamphletlaws/19001999/1971/0/act/0002.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.legis.state.pa.us/cfdocs/legis/li/uconsCheck.cfm?txtType=HTM&amp;yr=1971&amp;sessInd=0&amp;smthLwInd=0&amp;act=2</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?yr=2022&amp;sessInd=0&amp;act=53</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?txtType=HTM&amp;yr=1991&amp;sessInd=0&amp;smthLwInd=0&amp;act=22</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- PA Code (admin code / regulations) -->
+  <url><loc>https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/061toc.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.pacodeandbulletin.gov/Display/pacode?titleAndChapter=61.101</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Letter rulings / Bulletins -->
+  <url><loc>https://www.revenue.pa.gov/GeneralTaxInformation/Tax%20Law%20Policies%20Bulletins%20Notices/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.revenue.pa.gov/GeneralTaxInformation/Tax%20Law%20Policies%20Bulletins%20Notices/letterrulings/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Property / Rebate -->
+  <url><loc>https://www.revenue.pa.gov/IAm/PropertyTaxRentRebate/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

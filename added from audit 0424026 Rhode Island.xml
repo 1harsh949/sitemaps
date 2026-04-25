@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ RHODE ISLAND ============ -->
+
+  <!-- RI Division of Taxation main landing pages -->
+  <url><loc>https://tax.ri.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.ri.gov/forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/forms/individual-tax-forms/personal-income-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/forms/business-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- RI personal income tax (RI-1040, RI-1040NR) -->
+  <url><loc>https://tax.ri.gov/tax-sections/personal-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-12/2025%201040R%20Instructions%20122025.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/sites/g/files/xkgbur541/files/2024-12/2024%201040R%20Instructions%20-%20updated%2012092024.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-11/2025%201040NR%20Instructions_d.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- RI corporate / business (RI-1120C, RI-1120S, RI-1065) -->
+  <url><loc>https://tax.ri.gov/tax-sections/business-tax/corporate-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.ri.gov/forms/business-tax-forms/business-corporation-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/forms/business-tax-forms/subchapter-s-corporation-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/forms/business-tax-forms/partnership-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- RI pass-through entity tax (RI-PTE) -->
+  <url><loc>https://tax.ri.gov/tax-sections/business-tax/pass-through-entity</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- RI sales and use tax -->
+  <url><loc>https://tax.ri.gov/tax-sections/sales-excise/sales-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.ri.gov/forms/business-tax-forms/sales-excise-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- RI corporate franchise / minimum tax -->
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/44-12/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- RI withholding -->
+  <url><loc>https://tax.ri.gov/tax-sections/employer-tax/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- RI estate / fiduciary -->
+  <url><loc>https://tax.ri.gov/tax-sections/personal-income-tax/estate-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- RI Title 44 - General Laws -->
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/44-11/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/44-18/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/44-22/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/INDEX.HTM</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- RI advisories / rulings -->
+  <url><loc>https://tax.ri.gov/news/advisories</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.ri.gov/news/notices</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.ri.gov/regulations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- RI online services -->
+  <url><loc>https://tax.ri.gov/online-services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://taxportal.ri.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

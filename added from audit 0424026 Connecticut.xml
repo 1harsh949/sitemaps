@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ CONNECTICUT ============ -->
+  <!-- CT is one of only TWO states with a stand-alone gift tax (FLAG) -->
+
+  <!-- CT DRS main landing pages -->
+  <url><loc>https://portal.ct.gov/drs</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://portal.ct.gov/drs/drs-forms/current-year-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/drs/individuals/individual-income-tax-portal</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://portal.ct.gov/drs/businesses</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- CT personal income tax (CT-1040, CT-1040NR/PY) -->
+  <url><loc>https://portal.ct.gov/drs/individuals/individual-income-tax-portal/forms-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/drs/individuals/resident-income-tax-information/who-must-file-a-connecticut-resident-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/drs/individuals/nonresident/nonresident-income-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/drs/individuals/individual-tax-page/connecticut-resident-income-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- CT corporate / pass-through entity (CT-1065, CT-1120, CT-PET) -->
+  <url><loc>https://portal.ct.gov/drs/taxes/pass-through-entity/tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://portal.ct.gov/DRS/DRS-Forms/Current-Year-Forms/Pass-Through-Entity-Tax-Forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://portal.ct.gov/drs/taxes/pass-through-entity/other-helpful-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://portal.ct.gov/-/media/drs/forms/2024/pass-through/ct-pet_1224.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/-/media/drs/forms/2024/pass-through/ct-pet-instructions_1224.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://portal.ct.gov/-/media/drs/forms/2024/pass-through/connecticut-pass-through-entity-tax---general-instructions-2024-ct-pet-series.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://portal.ct.gov/drs/taxes/corporation-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- CT estate and gift tax (CT-706/709) -->
+  <url><loc>https://portal.ct.gov/drs/individuals/individual-income-tax-portal/estate-and-gift-taxes/tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://portal.ct.gov/-/media/drs/forms/2025/gifttax/ct-706-709-line-instructions_0625.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- CT sales and use tax -->
+  <url><loc>https://portal.ct.gov/drs/sales-tax/tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- CT withholding -->
+  <url><loc>https://portal.ct.gov/drs/withholding-taxes/withholding-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- CT statutes - Title 12 / Chapters 207, 208, 229 -->
+  <url><loc>https://www.cga.ct.gov/current/pub/titles.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.cga.ct.gov/2019/pub/title_12.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.cga.ct.gov/2021/pub/chap_229.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.cga.ct.gov/2022/sup/chap_229.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.cga.ct.gov/2021/pub/chap_208.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- CT guidance / rulings / regs -->
+  <url><loc>https://portal.ct.gov/drs/publications/tsss/tax-special-notices</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://portal.ct.gov/drs/legislation</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://portal.ct.gov/drs/publications/policies</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://portal.ct.gov/drs/publications/rulings</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ NEW MEXICO ============ -->
+  <!-- NM Taxation and Revenue Department main landing pages -->
+  <url><loc>https://www.tax.newmexico.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/individuals/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/businesses/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tap.state.nm.us/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Personal income tax -->
+  <url><loc>https://www.tax.newmexico.gov/individuals/personal-income-tax-information/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/file-your-personal-income-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/personal-income-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Corporate income tax -->
+  <url><loc>https://www.tax.newmexico.gov/businesses/corporate-income-franchise-tax-overview/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/corporate-income-franchise-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Pass-through / PTW-D / RPD PTE -->
+  <url><loc>https://www.tax.newmexico.gov/businesses/fiduciary-pass-through-entity-tax-overview/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/fiduciary-pass-through-entities-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Gross Receipts Tax (GRT) -->
+  <url><loc>https://www.tax.newmexico.gov/businesses/gross-receipts-overview/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/businesses/gross-receipts-tax-rates/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/businesses/file-your-taxes-overview/grt-filers-kit/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/gross-receipts-compensating-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Withholding -->
+  <url><loc>https://www.tax.newmexico.gov/businesses/wage-withholding-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Capital gains deduction -->
+  <url><loc>https://www.tax.newmexico.gov/individuals/personal-income-tax-information/credits-rebates-deductions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- NMSA — statutes via Justia -->
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-1/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-1/section-7-1-14/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-2/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-2/section-7-2-3/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-2/section-7-2-11/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-2a/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/new-mexico/chapter-7/article-9/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Regulations / publications -->
+  <url><loc>https://www.tax.newmexico.gov/all-nm-taxes/overview/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/forms-publications/publications/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/all-nm-taxes/laws-and-regulations/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Filing / payments -->
+  <url><loc>https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/individuals/online-services-overview/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tax.newmexico.gov/individuals/personal-income-tax-information/estimated-payments/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Refunds -->
+  <url><loc>https://www.tax.newmexico.gov/individuals/refunds/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ NEW JERSEY ============ -->
+  <!-- NJ Division of Taxation main -->
+  <url><loc>https://www.nj.gov/treasury/taxation/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/individuals.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/businesses.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/forms.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/publications.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Personal income tax / GIT -->
+  <url><loc>https://www.nj.gov/treasury/taxation/git_factbook.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/njit1.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/git/njit-rates.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/1040i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/1040nri.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/1065i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/1080ci.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Corporation Business Tax (CBT) -->
+  <url><loc>https://www.nj.gov/treasury/taxation/cbt-overview.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/cbt/cbt-rates.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/cbt/forms.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/cbt/cbt100i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/cbt/cbt100si.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Corporate Transit Fee (replaces surtax) -->
+  <url><loc>https://www.nj.gov/treasury/taxation/cbt/corporate-transit-fee.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- BAIT / PTE -->
+  <url><loc>https://www.nj.gov/treasury/taxation/bait/index.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/bait/bait-faq.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/pdf/current/pte/pte100i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Sales / use, employer withholding -->
+  <url><loc>https://www.nj.gov/treasury/taxation/businesses/salestax/index.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/businesses/salestax/salesusetax.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/njit13.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/businesses/employer-withholding/index.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Reciprocity with PA + nonresident -->
+  <url><loc>https://www.nj.gov/treasury/taxation/njit25.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/individuals/nonresidents.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Inheritance / estate -->
+  <url><loc>https://www.nj.gov/treasury/taxation/inheritance-estate/inheritance.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- NJ statutes (Title 54 / 54A) -->
+  <url><loc>https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&amp;fn=default.htm&amp;vid=Publish:10.1048/Enu</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://law.justia.com/codes/new-jersey/title-54/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/new-jersey/title-54a/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/new-jersey/title-54a/section-54a-12-1/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Admin code / regulations -->
+  <url><loc>https://www.nj.gov/treasury/taxation/lawandpublic.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.state.nj.us/treasury/taxation/lprrulesregs.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Rulings / technical bulletins -->
+  <url><loc>https://www.nj.gov/treasury/taxation/rulings/rulings.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/technicalbulletinslist.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Court of Appeals child support / Appendix IX-B -->
+  <url><loc>https://www.njcourts.gov/sites/default/files/forms/10488_app_ix_b.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- Property tax / homestead -->
+  <url><loc>https://www.nj.gov/treasury/taxation/anchor/index.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nj.gov/treasury/taxation/lpt/lpt-localtax.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

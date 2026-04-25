@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ MAINE ============ -->
+  <!-- Maine Revenue Services main landing pages -->
+  <url><loc>https://www.maine.gov/revenue/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.maine.gov/revenue/taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.maine.gov/revenue/tax-return-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.maine.gov/revenue/publications</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Maine personal income tax (1040ME) -->
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/individual-income-tax-1040me</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/24_1040me_book_gen_instr.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.maine.gov/revenue/taxes/tax-relief-credits-programs</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Maine corporate income tax (1120ME) -->
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/corporate-income-tax-1120me</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/23_1120me_all_instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Maine bank franchise tax (1120B-ME) -->
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/franchise-tax-1120b-me</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/25_1120b_instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Maine pass-through entity / withholding -->
+  <url><loc>https://www.maine.gov/revenue/tax-return-forms/pass-through-entity-withholding-2025</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/pass-through-entities</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Maine sales and use tax -->
+  <url><loc>https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Maine estate / fiduciary -->
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/estate-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.maine.gov/revenue/taxes/income-estate-tax/fiduciary-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Maine withholding -->
+  <url><loc>https://www.maine.gov/revenue/taxes/withholding-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Maine homestead exemption / property tax relief -->
+  <url><loc>https://www.maine.gov/revenue/taxes/property-tax/relief-programs/homestead-exemption-program</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.mainelegislature.org/legis/statutes/36/title36sec683.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.maine.gov/revenue/taxes/property-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Maine Revised Statutes Title 36 -->
+  <url><loc>https://www.mainelegislature.org/legis/statutes/36/title36ch0sec0.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://legislature.maine.gov/statutes/36/title36ch817.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mainelegislature.org/legis/statutes/36/title36sec1811.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mainelegislature.org/legis/statutes/36/title36sec5102.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mainelegislature.org/legis/statutes/36/title36sec5206.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Maine guidance / bulletins -->
+  <url><loc>https://www.maine.gov/revenue/taxes/tax-policy</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.maine.gov/revenue/publications/alerts</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.maine.gov/revenue/publications/rules</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

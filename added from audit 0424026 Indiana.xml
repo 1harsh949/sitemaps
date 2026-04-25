@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Indiana DOR - Main Pages -->
+  <url><loc>https://www.in.gov/dor/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/tax-forms/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/tax-forms/individual/current/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/tax-forms/corporate/current-corporatepartnership/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/tax-forms/business/sales-tax-forms/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/i-am-a/individual/file-my-taxes/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/i-am-a/individual/individual-income-tax-overview/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/i-am-a/business-corp/business-faq/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/i-am-a/tax-professional/tax-prac-faq/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://in.gov/dor/3975.htm</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Pass-Through Entity Tax (PTET) -->
+  <url><loc>https://www.in.gov/dor/tax-forms/other-forms/ptet/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/tax-forms/other-forms/ptet/faq/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/files/ptet-instructions.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://forms.in.gov/Download.aspx?id=15526</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Information Bulletins -->
+  <url><loc>https://www.in.gov/dor/files/reference/ib72b.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/files/ib42.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.in.gov/dor/files/ib39.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Individual Forms -->
+  <url><loc>https://forms.in.gov/Download.aspx?id=15796</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://forms.in.gov/Download.aspx?id=16380</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Fiduciary -->
+  <url><loc>https://forms.in.gov/Download.aspx?id=15765</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://forms.in.gov/Download.aspx?id=16307</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://secure.in.gov/dor/tax-forms/fiduciary/fiduciary-faq/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Sales / Use Tax -->
+  <url><loc>https://www.in.gov/dor/files/st-103inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Statutes - IC Title 6 -->
+  <url><loc>https://iga.in.gov/laws/2023/ic/titles/6</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://iga.in.gov/legislative/laws/2023/ic/titles/6/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>http://www.in.gov/legislative/ic/code/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Indiana Administrative Code - 45 IAC 3.1 -->
+  <url><loc>https://iar.iga.in.gov/latestArticle/45/3.1</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/indiana/45-IAC-3.1-4-1</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/indiana/45-IAC-3.1-1-67</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Justia mirrors -->
+  <url><loc>https://law.justia.com/codes/indiana/title-6/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/indiana/title-6/article-3-6/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://codes.findlaw.com/in/title-6-taxation/in-code-sect-6-3-2-2/</loc><lastmod>2026-04-24</lastmod></url>
+</urlset>

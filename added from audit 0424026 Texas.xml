@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ TEXAS ============ -->
+  <!-- Comptroller main -->
+  <url><loc>https://comptroller.texas.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/file-pay/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/publications/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Franchise tax (Ch. 171) -->
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/no-tax-due.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/filing-requirements.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/rates.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/nexus.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/cogs.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/comp.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/apportionment.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/publications/98-806.php</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Sales / use -->
+  <url><loc>https://comptroller.texas.gov/taxes/sales/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/sales/forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/sales/city.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/sales/remote-sellers.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/sales/marketplace-providers-faq.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Other major taxes -->
+  <url><loc>https://comptroller.texas.gov/taxes/property-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/hotel/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/mixed-beverage/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/motor-vehicle/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Credits / R&D -->
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/credits/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/franchise/credits/research-development.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Statutes - Texas Tax Code -->
+  <url><loc>https://statutes.capitol.texas.gov/?link=TX</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://statutes.capitol.texas.gov/Docs/TX/htm/TX.171.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://statutes.capitol.texas.gov/Docs/TX/htm/TX.111.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://statutes.capitol.texas.gov/Docs/TX/htm/TX.321.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Admin code / regulations -->
+  <url><loc>https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&amp;ti=34&amp;pt=1</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&amp;ti=34&amp;pt=1&amp;ch=3</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Rulings / hearings / STAR -->
+  <url><loc>https://star.comptroller.texas.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/hearings/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://comptroller.texas.gov/taxes/private-letter-rulings/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Workforce / unemployment -->
+  <url><loc>https://www.twc.texas.gov/businesses/unemployment-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.twc.texas.gov/programs/unemployment-tax-rates</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Webfile / online portal -->
+  <url><loc>https://comptroller.texas.gov/taxes/file-pay/about-webfile.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

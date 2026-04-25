@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Oklahoma Tax Commission - Main Pages -->
+  <url><loc>https://oklahoma.gov/tax.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/forms.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/income-tax.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/businesses.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/taxdocs.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/income-tax.html?q=INTGEN18</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/businesses.html?q=BUSMRK1</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/tax/helpcenter/businesses.html?q=BUSMRK6</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Individual / Corporate / Partnership Forms -->
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-NR-Pkt.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/512-Pkt.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/514-Pkt.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Pass-Through Entity (PTE) -->
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/587-PTE.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/586.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/software-developers/Dev586-25.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Fiduciary -->
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/513-Pkt.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/513-NR-Pkt.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Sales Tax -->
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-A.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-C.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20021.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Ad Valorem -->
+  <url><loc>http://www.oklahoma.gov/tax/All_Taxes/Ad_Valorem/Forms,_Publications/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/publications/ad-valorem/2021TaxLawsAdValorem.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Statutes - Title 68 -->
+  <url><loc>https://www.oklegislature.gov/osstatuestitle.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://oksenate.gov/sites/default/files/2019-12/os68.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/oklahoma/title-68/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/oklahoma/title-68/section-68-2355/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Oklahoma Administrative Code - Title 710 -->
+  <url><loc>https://regulations.justia.com/states/oklahoma/title-710/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://regulations.justia.com/states/oklahoma/title-710/chapter-50/subchapter-3/part-7/section-710-50-3-54/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://regulations.justia.com/states/oklahoma/title-710/chapter-90/subchapter-1/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://regulations.justia.com/states/oklahoma/title-710/chapter-50/subchapter-15/part-1/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/oklahoma/OAC-710-50-3-47</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/oklahoma/Okla-Admin-Code-SS-710-90-3-11</loc><lastmod>2026-04-24</lastmod></url>
+</urlset>

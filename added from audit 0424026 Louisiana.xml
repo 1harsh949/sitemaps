@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Louisiana DOR - Main Pages -->
+  <url><loc>https://revenue.louisiana.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-forms/individuals/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-forms/businesses/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/businesses/business-taxes/partnership-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/fiduciary-income-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-policy/rules-regulations/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-professionals/electronic-filing-payment-information/corporation-efile-program/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/how-can-i-file-an-amended-return/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/corporation-income-franchise-taxes/does-a-corporation-taxed-as-an-s-corporation-federally-have-to-make-the-pass-through-entity-tax-election/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/school-readiness-credit/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://esweb.revenue.louisiana.gov/OnlineBookletRequest/RequestBooklet.aspx</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Individual Forms -->
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT540Bi-2025.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT540B(2025)WEB-BC-F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Fiduciary -->
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT541(1_24)F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Corporate -->
+  <url><loc>https://revenue.louisiana.gov/TaxForms/CIFT-620(1_06)F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Partnership / IT-565 -->
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT565i%20(1_25)%20D8.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT565i%20(1_22).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/IT565i%20(1_21).pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Pass-Through Entity Tax Election (R-6980) -->
+  <url><loc>https://dam.ldr.la.gov/taxforms/6980-1-26-F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/6980(1_26)F%20(1).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/6922ES(2025)F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Sales Tax R-1029 -->
+  <url><loc>https://dam.ldr.la.gov/taxforms/1029i(1_25)%20FINAL%20_RV.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://dam.ldr.la.gov/taxforms/1029(7_03)F.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Statutes - Title 47 (Revenue and Taxation) -->
+  <url><loc>https://www.legis.la.gov/Legis/Law.aspx?d=102001</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/louisiana/revised-statutes/title-47/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-305/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-47-sect-302/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Louisiana Administrative Code - Title 61 -->
+  <url><loc>https://revenue.la.gov/tax-policy/general-resources/louisiana-administrative-code-title-61/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-61-SS-I-1001</loc><lastmod>2026-04-24</lastmod></url>
+</urlset>

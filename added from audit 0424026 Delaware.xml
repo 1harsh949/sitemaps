@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ DELAWARE ============ -->
+  <!-- Delaware has NO state or local sales tax (FLAG) -->
+  <!-- Delaware imposes a Gross Receipts Tax on businesses instead -->
+
+  <!-- DE Division of Revenue main landing pages -->
+  <url><loc>https://revenue.delaware.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://revenue.delaware.gov/forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/personal-income-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/file/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- DE personal income tax (200-01 resident, 200-02 nonresident) -->
+  <url><loc>https://revenue.delaware.gov/personal-income-tax-forms/personal-income-tax-forms-instructions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://revenuefiles.delaware.gov/docs/TY12_200-02Instructs.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- DE corporate income tax (Form 1100, 1100S) -->
+  <url><loc>https://revenuefiles.delaware.gov/2022/1100_TY22Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenuefiles.delaware.gov/2022/1100S_TY22Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/corporate-income-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- DE partnership / S-corp (Form 300) -->
+  <url><loc>https://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- DE gross receipts tax (replaces sales tax) -->
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/gross-receipts-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/gross-receipt-tax-form-examples/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-4-gross-receipts-taxes/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- DE franchise tax (Division of Corporations) -->
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/franchise-taxes/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://corp.delaware.gov/paytaxes/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://corp.delaware.gov/alt-entitytaxinstructions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://corp.delaware.gov/delaw/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://financefiles.delaware.gov/docs/corp_franchise.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- DE Code Title 30 (taxation) and Title 8 Ch. 5 (corp franchise tax) -->
+  <url><loc>https://delcode.delaware.gov/title30/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://delcode.delaware.gov/title30/c019/index.shtml</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://delcode.delaware.gov/title8/c005/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://delcode.delaware.gov/title30/c005/sc01/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- DE withholding -->
+  <url><loc>https://revenue.delaware.gov/business-tax-forms/withholding-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- DE prior-year forms / collections / FAQs -->
+  <url><loc>https://revenue.delaware.gov/prior-year-business-tax-forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://revenue.delaware.gov/collections/forms-instructions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://revenue.delaware.gov/frequently-asked-questions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Note: Delaware does NOT have a stand-alone PTE (SALT cap workaround) election as of 2026; flagged for chatbot context -->
+</urlset>

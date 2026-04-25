@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Utah State Tax Commission - Main Pages -->
+  <url><loc>https://tax.utah.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms-pubs/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/withholding/employers</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/training/salt-faq</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/event/state-local-tax-salt-election-payment-deadline-jan-dec-2025/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://incometax.utah.gov/line-by-line/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://incometax.utah.gov/instructions/tc-40b</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://incometax.utah.gov/tc-40a/#part4-01</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://incometax.utah.gov/additions/pass-through-entity-addition</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Individual Income Tax (TC-40) -->
+  <url><loc>https://files.tax.utah.gov/tax/forms/current/tc-40.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://files.tax.utah.gov/tax/forms/current/tc-40inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://files.tax.utah.gov/tax/forms/current/tc-40full.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms/current/tc-40-minipacket.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms/drafts/tc-40.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms/drafts/tc-40inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms/current/tc-40b.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://files.tax.utah.gov/tax/forms/2024/tc-40a.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://files.tax.utah.gov/tax/forms/2024/tc-40w.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Partnership / S-Corp / Corporate -->
+  <url><loc>https://tax.utah.gov/forms/current/tc-65inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Fiduciary (TC-41) -->
+  <url><loc>https://tax.utah.gov/forms/current/tc-41.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.utah.gov/forms/current/tc-41inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Pass-Through Entity Tax (SALT / TC-75) -->
+  <url><loc>https://tax.utah.gov/forms/current/tc-75inst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Withholding -->
+  <url><loc>https://tax.utah.gov/forms/current/tc-941einst.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Code Title 59 (Revenue and Taxation) -->
+  <url><loc>https://le.utah.gov/xcode/Title59/59.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://le.utah.gov/xcode/Title59/Chapter7/C59-7-S102_2017050920170509.xml</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://le.utah.gov/xcode/Title59/Chapter10/59-10.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://le.utah.gov/xcode/Title59/Chapter12/59-12.html</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://le.utah.gov/xcode/Title59/C59_1800010118000101.pdf</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Justia / FindLaw mirrors -->
+  <url><loc>https://law.justia.com/codes/utah/title-59/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://codes.findlaw.com/ut/title-59-revenue-and-taxation/ut-code-sect-59-7-101/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://codes.findlaw.com/ut/title-59-revenue-and-taxation/ut-code-sect-59-10-103/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://codes.findlaw.com/ut/title-59-revenue-and-taxation/ut-code-sect-59-12-102/</loc><lastmod>2026-04-24</lastmod></url>
+
+  <!-- Utah Administrative Code - R865 -->
+  <url><loc>https://regulations.justia.com/states/utah/tax-commission/title-r865/rule-r865-9i/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://regulations.justia.com/states/utah/tax-commission/title-r865/rule-r865-9i/section-r865-9i-14/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://www.law.cornell.edu/regulations/utah/tax-commission/title-R865/rule-R865-9I</loc><lastmod>2026-04-24</lastmod></url>
+</urlset>

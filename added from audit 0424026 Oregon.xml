@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ OREGON ============ -->
+  <!-- OR Department of Revenue main landing pages -->
+  <url><loc>https://www.oregon.gov/dor/Pages/index.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.oregon.gov/dor/programs/individuals/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Personal income tax forms -->
+  <url><loc>https://www.oregon.gov/dor/programs/individuals/Pages/PIT.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-40_101-040.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-40-n_101-048.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-40-p_101-055.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Corporate / partnership / S-corp -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/corp-tax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/partnerships.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-20_102-018.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-65_101-016.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- OR PTE-E (Passthrough Elective Tax) -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/pte-e.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- Corporate Activity Tax (CAT) -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/corporate-activity-tax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- Statewide Transit Tax (OR-STI) -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/statewide-transit-tax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-sti_101-167.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Transit district SE taxes -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/transit-self-employment.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-tm_150-555-001.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.oregon.gov/dor/forms/FormsPubs/form-or-ltd_150-560-001.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- Withholding / payroll -->
+  <url><loc>https://www.oregon.gov/dor/programs/businesses/Pages/payroll-withholding.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.oregon.gov/dor/programs/individuals/Pages/withholding.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Statutes — ORS Chapters 314, 316, 317 -->
+  <url><loc>https://oregon.public.law/statutes/ors_chapter_314</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://oregon.public.law/statutes/ors_chapter_316</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://oregon.public.law/statutes/ors_chapter_317</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://oregon.public.law/statutes/ors_chapter_318</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Portland / Multnomah / Metro local taxes -->
+  <url><loc>https://www.portland.gov/revenue</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.portland.gov/revenue/business-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.portland.gov/revenue/personal-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.portland.gov/revenue/pcef</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.multco.us/finance/preschool-all-personal-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregonmetro.gov/public-projects/supportive-housing-services/tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- OR SHIFT (Surplus credit / kicker) -->
+  <url><loc>https://www.oregon.gov/dor/programs/individuals/Pages/Kicker.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Filing / payments -->
+  <url><loc>https://revenueonline.dor.oregon.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.oregon.gov/dor/programs/individuals/Pages/Estimated-Tax.aspx</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ NEW YORK ============ -->
+  <!-- DTF main landing pages -->
+  <url><loc>https://www.tax.ny.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.ny.gov/pit/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.ny.gov/forms/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pubs_and_bulls/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Personal income tax -->
+  <url><loc>https://www.tax.ny.gov/forms/income_cur_forms.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pdf/current_forms/it/it201i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pdf/current_forms/it/it203i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pdf/current_forms/it/it204i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pit/file/nonresidents.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/pit/file/part_year_residents.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tax.ny.gov/pit/file/tax_tables.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Corporate / Article 9-A -->
+  <url><loc>https://www.tax.ny.gov/bus/ct/article9a.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.ny.gov/pdf/current_forms/ct/ct3i.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/ct/corp_tax.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/forms/corporation_tax_forms.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- PTET -->
+  <url><loc>https://www.tax.ny.gov/bus/ptet/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/ptet/ptet-tsb.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/nyc-ptet/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- NY statutes -->
+  <url><loc>https://www.nysenate.gov/legislation/laws/TAX</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nysenate.gov/legislation/laws/TAX/A22</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nysenate.gov/legislation/laws/TAX/A9-A</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nysenate.gov/legislation/laws/TAX/A24-A</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nysenate.gov/legislation/laws/TAX/A28</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Regs and admin -->
+  <url><loc>https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://govt.westlaw.com/nycrr/Browse/Home/NewYork/NewYorkCodesRulesandRegulations?guid=I96b134c0b5a011dda0a4e17826ebc834</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Advisory opinions / rulings -->
+  <url><loc>https://www.tax.ny.gov/pubs_and_bulls/advisory_opinions/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tax.ny.gov/pubs_and_bulls/tsb/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.dta.ny.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Sales/use, withholding -->
+  <url><loc>https://www.tax.ny.gov/bus/st/stidx.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/wt/default.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.tax.ny.gov/pit/file/ny_source_income.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- NYC -->
+  <url><loc>https://www.nyc.gov/site/finance/index.page</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business.page</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business-corporation-tax.page</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business-general-corporation-tax-gct.page</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business-unincorporated-business-tax-ubt.page</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business-pte.page</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nyc.gov/site/finance/business/business-commercial-rent-tax-crt.page</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Reciprocity / nonresident wage -->
+  <url><loc>https://www.tax.ny.gov/pit/file/military_page.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tax.ny.gov/bus/ct/article-22-credit.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

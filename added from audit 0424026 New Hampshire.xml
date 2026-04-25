@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ NEW HAMPSHIRE ============ -->
+  <!-- NH has NO general personal income tax and NO general sales tax (FLAG) -->
+  <!-- NH Interest & Dividends Tax was REPEALED effective 1/1/2025 (FLAG) -->
+
+  <!-- NH DRA main landing pages -->
+  <url><loc>https://www.revenue.nh.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.nh.gov/taxes-glance</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/business-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.nh.gov/resource-center/current-year-forms-and-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.nh.gov/resource-center/laws-rules</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- NH Interest & Dividends Tax (repealed) -->
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/interest-dividends-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.nh.gov/news-and-media/repeal-nh-interest-and-dividends-tax-now-effect</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.revenue.nh.gov/news-and-media/interest-dividends-tax-repeal</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.nh.gov/resource-center/frequently-asked-questions/interest-dividends-tax-frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.nh.gov/sites/g/files/ehbemt736/files/documents/2025-001-technical-information-release-repeal.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.nh.gov/transparency/transparency-all-tax-types/transparency-interest-dividends-tax</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- NH 2025 tax updates -->
+  <url><loc>https://www.revenue.nh.gov/news-and-media/nh-department-revenue-administration-shares-2025-tax-updates-and-filing-guidance</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- NH Business Profits Tax (BPT) -->
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/business-profits-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- NH Business Enterprise Tax (BET) -->
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/business-enterprise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- NH BT-Summary (filing summary) -->
+  <url><loc>https://www.revenue.nh.gov/sites/g/files/ehbemt736/files/documents/bt-summary-instructions-2025.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.revenue.nh.gov/sites/g/files/ehbemt736/files/documents/bt-summary-instructions-2024.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- NH RSA Chapters -->
+  <url><loc>https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-77.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gc.nh.gov/rsa/html/V/77/77-mrg.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gencourt.state.nh.us/rsa/html/nhtoc/nhtoc-v-77-a.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gc.nh.gov/rsa/html/V/77-A/77-A-mrg.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gc.nh.gov/rsa/html/v/77-A/77-A-1.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gc.nh.gov/rsa/html/V/77-A/77-A-3.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.gencourt.state.nh.us/rsa/html/v/77-e/77-e-mrg.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gencourt.state.nh.us/rsa/html/v/77-E/77-E-1.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- NH meals & rooms tax / property tax -->
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/meals-rentals-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.revenue.nh.gov/property-division</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.revenue.nh.gov/taxes-glance/real-estate-transfer-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- NH FAQs / online services -->
+  <url><loc>https://www.revenue.nh.gov/resource-center/frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.revenue.nh.gov/online-services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

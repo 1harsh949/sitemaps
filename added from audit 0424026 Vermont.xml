@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ VERMONT ============ -->
+  <!-- VT Department of Taxes main landing pages -->
+  <url><loc>https://tax.vermont.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/individuals</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/business</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/all-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/tax-forms-and-publications/individuals</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- VT personal income tax forms IN-111, IN-114 -->
+  <url><loc>https://tax.vermont.gov/document/2025-form-111</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2025-instructions-111</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2025-form-114</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/individuals/personal-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- VT business / pass-through entity forms BI-471, BI-472, BI-476, BI-477 -->
+  <url><loc>https://tax.vermont.gov/business/business-entity-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2024-form-bi-471</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2025-instructions-bi-476</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2025-instructions-bi-477</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/business/business-entity-income-tax/business-income-tax-form-set-faqs</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tax.vermont.gov/business/business-entity-income-tax/faqs-small-to-midsize-businesses-with-only-vermont-owners</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- VT estate tax ($5M threshold) -->
+  <url><loc>https://tax.vermont.gov/individuals/estate-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/instructions/form-EST-191</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/2025-instructions-119</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tax.vermont.gov/tax-forms-and-publications/estate-and-fiduciary</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- VT sales and use tax -->
+  <url><loc>https://tax.vermont.gov/business/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- VT property transfer tax (32 V.S.A. Ch. 231) -->
+  <url><loc>https://tax.vermont.gov/property/ptt</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://legislature.vermont.gov/statutes/fullchapter/32/231</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- VT statutes - Title 32 -->
+  <url><loc>https://legislature.vermont.gov/statutes/title/32</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Act 68 of 2023 - statewide reappraisal (CRITICAL) -->
+  <url><loc>https://legislature.vermont.gov/Documents/2024/Docs/ACTS/ACT068/ACT068%20As%20Enacted.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.vermont.gov/municipal-officials/listers-and-assessors/reappraisals</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/rp-1348-final-report-pursuant-act-68-2023-statewide-reappraisals-and-property-data</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.vermont.gov/document/progress-report-regarding-statewide-reappraisals-and-property-data-pursuant-act-68-2023</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tax.vermont.gov/municipal-officials/municipalities/reappraisals/regional-assessment-district-stakeholder-working-group</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- VT legislative tax updates -->
+  <url><loc>https://tax.vermont.gov/tax-law-and-guidance/tax-legislation/2023</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.vermont.gov/doc/tax-law-and-guidance/tax-legislation/2025</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- VT income tax tables / withholding -->
+  <url><loc>https://tax.vermont.gov/business/wht</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.vermont.gov/individuals/personal-income-tax/tax-rates</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- VT property tax / homestead -->
+  <url><loc>https://tax.vermont.gov/property/homestead-declaration</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

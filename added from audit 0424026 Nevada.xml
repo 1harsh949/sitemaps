@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ NEVADA ============ -->
+  <!-- NOTE: Nevada has NO personal income tax and NO corporate franchise/income tax. -->
+  <!-- Primary state taxes: Sales/Use, Modified Business Tax (MBT), Commerce Tax (CT), Live Entertainment Tax. -->
+
+  <!-- NV Department of Taxation main landing pages -->
+  <url><loc>https://tax.nv.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.nv.gov/FAQs/About_Taxes___FAQ_s/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nevadatax.nv.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- No PIT — emphasize -->
+  <url><loc>https://tax.nv.gov/FAQs/About_Taxes___FAQ_s/Personal_Income_Tax_Information/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- Modified Business Tax (MBT) — payroll -->
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Modified_Business_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.nv.gov/FAQs/Modified_Business_Tax_Information___FAQ_s/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Commerce Tax (CT) — gross receipts > $4M -->
+  <url><loc>https://tax.nv.gov/Commerce/Commerce_Tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.nv.gov/FAQs/Commerce_Tax_FAQ/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Commerce_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Live Entertainment Tax -->
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Live_Entertainment_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tax.nv.gov/FAQs/Live_Entertainment_Tax_Information___FAQ_s/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Sales / Use Tax -->
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Sales___Use_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tax.nv.gov/FAQs/Sales_Tax_Information___FAQ_s/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tax.nv.gov/Publications/Sales_Tax_Map/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Excise / cannabis / other industry taxes -->
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Cannabis_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Cigarette___Other_Tobacco_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.nv.gov/Forms/General_Purpose_Forms/Liquor_Tax_Forms/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Property tax -->
+  <url><loc>https://tax.nv.gov/LocalGovt/PolicyPub/ArchiveFiles/Property_Tax_in_Nevada/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- NRS — Nevada Revised Statutes Title 32 (revenue and taxation) -->
+  <url><loc>https://www.leg.state.nv.us/NRS/Index.cfm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-360.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-363a.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-363b.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-363c.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-368a.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-372.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-374.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.leg.state.nv.us/nrs/nrs-361.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- Local — Clark County (Las Vegas), Washoe County (Reno) -->
+  <url><loc>https://www.clarkcountynv.gov/government/departments/finance/index.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.clarkcountynv.gov/government/assessor/index.php</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.lasvegasnevada.gov/Business/License-Permits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.washoecounty.gov/treas/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- No franchise / no income tax — explicit refs -->
+  <url><loc>https://tax.nv.gov/FAQs/General_FAQ_s/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Filing / payments -->
+  <url><loc>https://tax.nv.gov/OnLineServices/Online_Services/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tax.nv.gov/Publications/Publications/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

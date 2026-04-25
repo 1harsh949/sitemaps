@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ MISSISSIPPI ============ -->
+  <!-- MS DOR main -->
+  <url><loc>https://www.dor.ms.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.dor.ms.gov/general-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dor.ms.gov/forms-resources/form-search</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/news</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Individual income tax -->
+  <url><loc>https://www.dor.ms.gov/individual</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/individual/individual-income-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Individual income tax forms (PDF) -->
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80105248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80205248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80106248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Business tax -->
+  <url><loc>https://www.dor.ms.gov/business</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/business-tax-frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Corporate income & franchise tax -->
+  <url><loc>https://www.dor.ms.gov/business/corporate-income-and-franchise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/corporate-income-franchise-tax/combined-income-filing</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83105248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83100248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Pass-through entity (PTE) -->
+  <url><loc>https://www.dor.ms.gov/node/15647</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.dor.ms.gov/node/15606</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/business/Updated%20EPTE%20FAQ.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20PTE%20INSTRUCTIONS%2084-100%20-%20Final%20%2001.14.2026.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Sales & use tax -->
+  <url><loc>https://www.dor.ms.gov/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/sales-use-tax/mississippi-sales-and-use-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/sales-use-tax/sales-tax-rates</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Hinds County / Jackson local taxes -->
+  <url><loc>https://www.dor.ms.gov/node/235</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Withholding tax -->
+  <url><loc>https://www.dor.ms.gov/business/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/withholding-tax/withholding-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dor.ms.gov/business/withholding-tax-faqs</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Laws, rules, and regulations -->
+  <url><loc>https://www.dor.ms.gov/forms-resources/mississippi-tax-laws-rules-and-regulations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/mississippi-tax-structure</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <!-- Statutes - MS Code Title 27 -->
+  <url><loc>https://law.justia.com/codes/mississippi/title-27/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-7/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-13/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-31/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-65/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+
+  <!-- Administrative regs -->
+  <url><loc>https://regulations.justia.com/states/mississippi/title-35/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://regulations.justia.com/states/mississippi/title-35/part-3/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Appeals -->
+  <url><loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/appeal-process-and-hearings</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.bta.ms.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.bta.ms.gov/forms-and-instructions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- TAP / E-Services -->
+  <url><loc>https://tap.dor.ms.gov/_/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.dor.ms.gov/e-services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

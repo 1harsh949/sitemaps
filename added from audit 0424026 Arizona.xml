@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ============ ARIZONA ============ -->
+  <!-- AZ Department of Revenue main landing pages -->
+  <url><loc>https://azdor.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://azdor.gov/individual-income-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://azdor.gov/businesses</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/transaction-privilege-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://azdor.gov/transaction-privilege-tax/tpt-rate-table</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Personal income tax forms -->
+  <url><loc>https://azdor.gov/forms/individual</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms/individual/individual-income-tax-form-140</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms/individual/nonresident-personal-income-tax-form-non-calculating</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms/individual/resident-personal-income-tax-return-non-calculating-form</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Corporate / partnership / S-corp / PTE forms -->
+  <url><loc>https://azdor.gov/forms/corporate-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms/partnership-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/forms/small-business-income-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- AZ PTE election -->
+  <url><loc>https://azdor.gov/businesses/corporate-income-tax/pass-through-entity-pte-election</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- Tax credits (school + others) -->
+  <url><loc>https://azdor.gov/tax-credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/tax-credits/credits-contributions-public-schools</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/tax-credits/credits-contributions-qualifying-charitable-organizations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azdor.gov/tax-credits/credits-contributions-private-school-tuition-organizations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Withholding / estimated -->
+  <url><loc>https://azdor.gov/businesses/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azdor.gov/individual-income-tax-information/individual-estimated-tax-payments</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Statutes — ARS Title 42 (taxation) and Title 43 (income tax) -->
+  <url><loc>https://www.azleg.gov/arsDetail/?title=42</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.azleg.gov/arsDetail/?title=43</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.azleg.gov/viewDocument/?docName=https://www.azleg.gov/ars/43/00104.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.azleg.gov/viewDocument/?docName=https://www.azleg.gov/ars/43/01014.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.azleg.gov/viewDocument/?docName=https://www.azleg.gov/ars/42/05010.htm</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+  <!-- Regulations / publications -->
+  <url><loc>https://azdor.gov/transaction-privilege-tax/tpt-license</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azdor.gov/transaction-privilege-tax/use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azdor.gov/transaction-privilege-tax/remote-sellers-marketplace-facilitators</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Local TPT cities -->
+  <url><loc>https://www.phoenix.gov/finance/plt</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.mesaaz.gov/government/business-services/tax-license</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.tucsonaz.gov/Departments/Finance/Business-Services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Filing / payments -->
+  <url><loc>https://aztaxes.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://azdor.gov/e-services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azdor.gov/individual-income-tax-information/filing-individual-returns</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
