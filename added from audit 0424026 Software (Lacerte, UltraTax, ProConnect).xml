@@ -4187,4 +4187,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.mass.gov/technical-information-release/tir-89-2-massachusetts-income-tax-treatment-of-passive-activity-losses-under-sec-469-of-the-internal-revenue-code</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/doc/2025-form-1-instructions/download</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/doc/2025-schedule-d-is-long-term-capital-gains-and-losses-excluding-collectibles/download</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/doc/2025-schedule-e-1-rental-real-estate-and-royalty-income-and-loss/download</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/info-details/massachusetts-gross-adjusted-gross-and-taxable-income</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/info-details/massachusetts-tax-rates</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
