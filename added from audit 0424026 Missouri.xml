@@ -145,4 +145,4 @@
     <priority>0.7</priority>
   </url>
 
-  </urlset>
+  <url><loc>https://dor.mo.gov/personal-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/personal-tax/income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/business-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url></urlset>
