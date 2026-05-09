@@ -1,274 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- ============ MISSISSIPPI ============ -->
-  <!-- MS DOR main -->
-  <url><loc>https://www.dor.ms.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.dor.ms.gov/general-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.dor.ms.gov/forms-resources/form-search</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/news</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>1.0</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/general-information</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/forms-resources/form-search</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/news</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Individual income tax -->
-  <url><loc>https://www.dor.ms.gov/individual</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/individual/individual-income-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/individual</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/individual/individual-income-tax-forms</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
 
-  <!-- Individual income tax forms (PDF) -->
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80105248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80205248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80106248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80105248.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80205248.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80106248.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
 
-  <!-- Business tax -->
-  <url><loc>https://www.dor.ms.gov/business</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/business-tax-frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/business-tax-frequently-asked-questions</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Corporate income & franchise tax -->
-  <url><loc>https://www.dor.ms.gov/business/corporate-income-and-franchise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/corporate-income-franchise-tax/combined-income-filing</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83105248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83100248.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/corporate-income-and-franchise-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/corporate-income-franchise-tax/combined-income-filing</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83105248.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/83100248.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
 
-  <!-- Pass-through entity (PTE) -->
-  <url><loc>https://www.dor.ms.gov/node/15647</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.dor.ms.gov/node/15606</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/business/Updated%20EPTE%20FAQ.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20PTE%20INSTRUCTIONS%2084-100%20-%20Final%20%2001.14.2026.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/node/15647</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>1.0</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/node/15606</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>1.0</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/business/Updated%20EPTE%20FAQ.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sites/default/files/tax-forms/business/2025%20PTE%20INSTRUCTIONS%2084-100%20-%20Final%20%2001.14.2026.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
 
-  <!-- Sales & use tax -->
-  <url><loc>https://www.dor.ms.gov/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/sales-use-tax/mississippi-sales-and-use-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/sales-use-tax/sales-tax-rates</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/sales-and-use-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/sales-use-tax/mississippi-sales-and-use-taxes</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/sales-use-tax/sales-tax-rates</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
 
-  <!-- Hinds County / Jackson local taxes -->
-  <url><loc>https://www.dor.ms.gov/node/235</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/node/235</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Withholding tax -->
-  <url><loc>https://www.dor.ms.gov/business/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/withholding-tax/withholding-tax-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.dor.ms.gov/business/withholding-tax-faqs</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/withholding-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/withholding-tax/withholding-tax-information</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/business/withholding-tax-faqs</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Laws, rules, and regulations -->
-  <url><loc>https://www.dor.ms.gov/forms-resources/mississippi-tax-laws-rules-and-regulations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/mississippi-tax-structure</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/forms-resources/mississippi-tax-laws-rules-and-regulations</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/mississippi-tax-structure</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Statutes - MS Code Title 27 -->
-  <url><loc>https://law.justia.com/codes/mississippi/title-27/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-7/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-13/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-31/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://law.justia.com/codes/mississippi/title-27/chapter-65/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/appeal-process-and-hearings</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://tap.dor.ms.gov/_/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
+  <ns0:url><ns0:loc>https://www.dor.ms.gov/e-services</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
-  <!-- Administrative regs -->
-  <url><loc>https://regulations.justia.com/states/mississippi/title-35/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://regulations.justia.com/states/mississippi/title-35/part-3/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <!-- Appeals -->
-  <url><loc>https://www.dor.ms.gov/forms-resources/taxpayer-guidance/appeal-process-and-hearings</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.bta.ms.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.bta.ms.gov/forms-and-instructions/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <!-- TAP / E-Services -->
-  <url><loc>https://tap.dor.ms.gov/_/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.dor.ms.gov/e-services</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.fincen.gov/news/news-releases/fincen-removes-beneficial-ownership-reporting-requirements-us-companies-and-us</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.fincen.gov/boi-faqs</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/newsroom</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/credits-deductions/trump-accounts</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/forms-pubs/about-form-1099-da</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://home.treasury.gov/</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/inflation-adjustments</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.fincen.gov/sites/default/files/shared/CTRPamphlet.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://home.treasury.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/tax-professionals</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.ssa.gov/oact/cola/cbb.html</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.bls.gov/eci/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.fincen.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/forms-instructions</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.ecfr.gov/current/title-26</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+</ns0:urlset>

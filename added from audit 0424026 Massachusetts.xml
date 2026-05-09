@@ -1,395 +1,231 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- ============ MASSACHUSETTS ============ -->
-  <!-- MA DOR main -->
-  <url><loc>https://www.mass.gov/orgs/massachusetts-department-of-revenue</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/topics/taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/personal-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/info-details/business-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/lists/dor-tax-forms-and-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mtc.dor.state.ma.us/mtc/_/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <ns0:url>
+    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <!-- MA Personal Income Tax forms -->
-  <url><loc>https://www.mass.gov/lists/personal-income-tax-forms-current-year</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/massachusetts-personal-income-tax-rates</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/learn-about-massachusetts-gross-adjusted-gross-and-taxable-income</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.mass.gov/info-details/who-must-file-a-massachusetts-personal-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-1-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-1-nrpy-massachusetts-nonresident-or-part-year-resident-income-tax-return-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-2-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-3-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <!-- Corporate Excise / Form 355 family -->
-  <url><loc>https://www.mass.gov/info-details/massachusetts-corporate-excise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/lists/corporate-excise-tax-forms-current-year</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-355-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-355s-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/doc/2024-form-355u-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- 4% Surtax / Millionaire tax -->
-  <url><loc>https://www.mass.gov/info-details/4-surtax-on-taxable-income-over-1000000</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/info-details/learn-about-the-massachusetts-4-surtax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Capital gains -->
-  <url><loc>https://www.mass.gov/info-details/learn-about-massachusetts-capital-gains</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- PTE / Elective excise -->
-  <url><loc>https://www.mass.gov/info-details/elective-pass-through-entity-excise</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.mass.gov/doc/63d-eligible-pte-elective-excise-instructions/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Sales / Use -->
-  <url><loc>https://www.mass.gov/info-details/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/sales-tax-on-meals-prepared-food-and-all-beverages</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Withholding / Employer -->
-  <url><loc>https://www.mass.gov/info-details/employer-tax-obligations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.mass.gov/info-details/withholding-taxes-on-wages</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Nexus / nonresident -->
-  <url><loc>https://www.mass.gov/info-details/learn-about-the-nexus-rules-for-corporate-excise</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/learn-about-massachusetts-source-income</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/personal-income-tax-for-nonresidents</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.mass.gov/info-details/learn-about-massachusetts-residency</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Estate tax -->
-  <url><loc>https://www.mass.gov/info-details/learn-about-the-estate-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Statutes - General Laws -->
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter63</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62D</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62C</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64I</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65C</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Regulations - 830 CMR -->
-  <url><loc>https://www.mass.gov/regulations/830-CMR-62</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.mass.gov/regulations/830-CMR-63</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Rulings / TIRs / DDs -->
-  <url><loc>https://www.mass.gov/lists/dor-letter-rulings</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.mass.gov/lists/dor-technical-information-releases</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.mass.gov/lists/dor-directives</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <!-- Boston local -->
-  <url><loc>https://www.boston.gov/departments/assessing</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.boston.gov/departments/treasury</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.fincen.gov/news/news-releases/fincen-removes-beneficial-ownership-reporting-requirements-us-companies-and-us</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://home.treasury.gov/</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.fincen.gov/boi-faqs</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/newsroom</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>1.0</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.9</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/credits-deductions/trump-accounts</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/forms-pubs/about-form-1099-da</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/inflation-adjustments</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.fincen.gov/sites/default/files/shared/CTRPamphlet.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://home.treasury.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/tax-professionals</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.ssa.gov/oact/cola/cbb.html</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.bls.gov/eci/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.fincen.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.irs.gov/forms-instructions</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.ecfr.gov/current/title-26</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/67</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/212</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ecfr.gov/current/title-26/part-1/section-1.212-1</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ecfr.gov/current/title-26/part-1/section-1.263(a)-1</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/274</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i8960</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i8949</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i1040sd</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mass.gov/doc/2025-form-1-instructions/download</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mass.gov/doc/2025-schedule-d-long-term-capital-gains-and-losses-excluding-collectibles-and-pre-1996-installment-sales/download</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p537</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1001&amp;num=0&amp;edition=prelim</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section453&amp;num=0&amp;edition=prelim</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-15a/section-15a.453-1</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/taxtopics/tc409</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1234A&amp;num=0&amp;edition=prelim</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mass.gov/info-details/massachusetts-gross-adjusted-gross-and-taxable-income</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mass.gov/info-details/mass-general-laws-c62-ss-1</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.mass.gov/info-details/mass-general-laws-c62-ss-2</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
+    <ns0:lastmod>2026-04-24</ns0:lastmod>
+    <ns0:changefreq>yearly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/67</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/212</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26/part-1/section-1.212-1</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26/part-1/section-1.263(a)-1</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/274</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/instructions/i8960</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/instructions/i8949</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/instructions/i1040sd</ns0:loc>
+    <ns0:lastmod>2026-05-02</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/publications/p537</ns0:loc>
+    <ns0:lastmod>2026-05-03</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-15a/section-15a.453-1</ns0:loc>
+    <ns0:lastmod>2026-05-03</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/taxtopics/tc409</ns0:loc>
+    <ns0:lastmod>2026-05-03</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  </ns0:urlset>
