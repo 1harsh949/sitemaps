@@ -1,201 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/forms-guides/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/individual-income-tax-instructions/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/archive/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/business-income/forms/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/i-1044.cfm</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/i-1156.cfm?qp=y</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/business-income/guides-for-certain-businesses/pass-through-entities/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/sales-use/stfiling/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/search-category/income-tax/business/page/33/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-
-  
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/form-40/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/document-mngr/forms_efo00089/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/forms-guides/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/individual-income-tax-instructions/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/archive/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/business-income/forms/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/i-1044.cfm</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/i-1156.cfm?qp=y</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/business-income/guides-for-certain-businesses/pass-through-entities/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/taxes/sales-use/stfiling/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/search-category/income-tax/business/page/33/</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/taxes/income-tax/business-income/forms/form-41/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/individual-income/forms/form-40/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/document-mngr/forms_efo00089/</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00028/EFO00028_10-02-2025.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/taxes/income-tax/business-income/forms/form-41/</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/document-mngr/forms_EFO00330/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00330/EFO00330_07-08-2024.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00028/EFO00028_10-02-2025.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/document-mngr/forms_EFO00026/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00026/EFO00026_09-18-2025.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/document-mngr/forms_EFO00330/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00330/EFO00330_07-08-2024.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://tax.idaho.gov/document-mngr/forms_EIN00004/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/wp-content/uploads/forms/EIN00004/EIN00004_12-06-2021.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://tax.idaho.gov/document-mngr/forms_EFO00143/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://tax.idaho.gov/document-mngr/forms_EFO00026/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00026/EFO00026_09-18-2025.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://www.law.cornell.edu/regulations/idaho/title-IDAPA-35/rule-35.01.01</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
+  <url><loc>https://tax.idaho.gov/document-mngr/forms_EIN00004/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/wp-content/uploads/forms/EIN00004/EIN00004_12-06-2021.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://tax.idaho.gov/document-mngr/forms_EFO00143/</loc><lastmod>2026-04-24</lastmod></url>
 
-  <ns0:url>
-    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://home.treasury.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-</ns0:urlset>
+  
+  </urlset>

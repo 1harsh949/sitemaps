@@ -1,183 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-forms/individuals/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-forms/businesses/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/businesses/business-taxes/partnership-tax/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/individuals/general-resources/fiduciary-income-tax/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-policy/rules-regulations/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-professionals/electronic-filing-payment-information/corporation-efile-program/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/how-can-i-file-an-amended-return/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/corporation-income-franchise-taxes/does-a-corporation-taxed-as-an-s-corporation-federally-have-to-make-the-pass-through-entity-tax-election/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/individuals/general-resources/school-readiness-credit/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://esweb.revenue.louisiana.gov/OnlineBookletRequest/RequestBooklet.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-
-  
-  <ns0:url><ns0:loc>https://revenue.louisiana.gov/TaxForms/CIFT-620(1_06)F.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.louisiana.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-forms/individuals/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-forms/businesses/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/businesses/business-taxes/partnership-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/fiduciary-income-tax/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-policy/rules-regulations/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-professionals/electronic-filing-payment-information/corporation-efile-program/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/how-can-i-file-an-amended-return/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/tax-education-and-faqs/faqs/corporation-income-franchise-taxes/does-a-corporation-taxed-as-an-s-corporation-federally-have-to-make-the-pass-through-entity-tax-election/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.louisiana.gov/individuals/general-resources/school-readiness-credit/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://esweb.revenue.louisiana.gov/OnlineBookletRequest/RequestBooklet.aspx</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-61-SS-I-1001</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.louisiana.gov/TaxForms/CIFT-620(1_06)F.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
-  <ns0:url>
-    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://home.treasury.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-</ns0:urlset>
+  
+  </urlset>

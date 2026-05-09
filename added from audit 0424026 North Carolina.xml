@@ -1,308 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>1.0</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/file-pay</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/file-pay</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/individual-income-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/individual-income-tax/individual-income-tax-forms-instructions</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/2024-d-400-individual-income-tax-return</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/individual-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/individual-income-tax/individual-income-tax-forms-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/2024-d-400-individual-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>weekly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/corporate-tax-forms-and-instructions</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/2024-cd-405-c-corporation-tax-return</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/2024-cd-401s-s-corporation-tax-return</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/corporate-tax-forms-and-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/2024-cd-405-c-corporation-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/2024-cd-401s-s-corporation-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/partnership-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/2024-d-403-partnership-income-tax-return</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxed-pte</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>1.0</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/important-notice-impact-recently-enacted-house-bill-105-various-tax-schedules</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/partnership-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/2024-d-403-partnership-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/taxed-pte</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/important-notice-impact-recently-enacted-house-bill-105-various-tax-schedules</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/documents/directives</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/documents/important-notices</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/documents/directives</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ncdor.gov/documents/important-notices</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes/collection-assistance-fee-frequently-asked-questions</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxpayer-bill-rights</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/penalties-and-interest</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes/collection-assistance-fee-frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ncdor.gov/taxpayer-bill-rights</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/penalties-and-interest</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-credits</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/sales-and-use-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-rates-other-information</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-rates-other-information</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <ns0:url><ns0:loc>https://www.ncdor.gov/taxes-forms/withholding-tax</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
+  <url><loc>https://www.ncdor.gov/taxes-forms/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <ns0:url>
-    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://home.treasury.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/interest-overview</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/penalties-and-fees-overview</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/request-waive-penalties</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/nc-5502-special-penalty-and-interest-waiver</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/penalty-waiver-policy</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/when-file</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/withholding-tax-frequently-asked-questions</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/file-pay/file-and-pay-your-withholding-tax-online</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/publications/p15</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-due-dates</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/payments/failure-to-deposit-penalty</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-941</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/instructions/i1120</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-prior/f1040v--2022.pdf</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/filing/where-to-file-addresses-for-taxpayers-and-tax-professionals-filing-form-1040</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/filing/where-to-file-addresses-for-taxpayers-and-tax-professionals-filing-form-1040-v</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.ncdor.gov/contact-us/ncdor-mailing-addresses</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-</ns0:urlset>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/interest-overview</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/penalties-and-fees-overview</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/request-waive-penalties</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/nc-5502-special-penalty-and-interest-waiver</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/policies/penalties-and-interest/penalty-waiver-policy</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/when-file</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/withholding-tax-frequently-asked-questions</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/file-pay/file-and-pay-your-withholding-tax-online</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ncdor.gov/contact-us/ncdor-mailing-addresses</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

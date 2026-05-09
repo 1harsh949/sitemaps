@@ -1,296 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <ns0:url><ns0:loc>https://revenue.ky.gov/</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Business/Pages/default.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Get-Help/Pages/Forms.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/News/Pages/default.aspx</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-
-  
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/740%20(2025).pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/740%20Packet%20Instructions%20(2025).pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20740-NP.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/740-NP-R%20(2025).pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/740-NP%20Instructions%20Packet.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/740-ES%20FINAL.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.ky.gov/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Business/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Get-Help/Pages/Forms.aspx</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/News/Pages/default.aspx</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20740-PTET%202024.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20PTET%20Instructions.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20740-PTET-ES.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.ky.gov/Forms/740%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740%20Packet%20Instructions%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-NP.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-NP-R%20(2025).pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-NP%20Instructions%20Packet.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/740-ES%20FINAL.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20720.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Instructions%20720.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/Form%20725%20Instructions.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Forms/INSTR_Form%20725.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-PTET%202024.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20PTET%20Instructions.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20740-PTET-ES.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url><ns0:loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod></ns0:url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20720.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Instructions%20720.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/Form%20725%20Instructions.pdf</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://revenue.ky.gov/Forms/INSTR_Form%20725.pdf</loc><lastmod>2026-04-24</lastmod></url>
 
   
-  <ns0:url>
-    <ns0:loc>https://www.federalregister.gov/documents/2025/03/26/2025-05199</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
+  <url><loc>https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf</loc><lastmod>2026-04-24</lastmod></url>
 
-  <ns0:url>
-    <ns0:loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-drop/n-25-67.pdf</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1099-da</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-C/section-1010.311</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/form-8300-and-reporting-cash-payments-of-over-10000</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://home.treasury.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/tax-professionals/circular-230-tax-professionals</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-instructions</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>weekly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.ecfr.gov/current/title-26</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>yearly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/publications/p523</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/publications/p544</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/121</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/1222</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.121-1</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.121-2</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.121-3</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.congress.gov/117/plaws/publ333/PLAW-117publ333.htm</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://revenue.ky.gov/Individual/Pages/Military-Exemptions.aspx</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://revenue.ky.gov/Individual/Pages/Military-Spouses-Residency-Relief-Act.aspx</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/199A</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.199A-2</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-employees-shareholders-and-corporate-officers</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/pub/irs-trty/philip.pdf</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/individuals/international-taxpayers/tax-treaties</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-8233</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/instructions/i1040nr</ns0:loc>
-    <ns0:lastmod>2026-05-03</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-  </ns0:urlset>
+  
+  <url>
+    <loc>https://revenue.ky.gov/Individual/Pages/Military-Exemptions.aspx</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenue.ky.gov/Individual/Pages/Military-Spouses-Residency-Relief-Act.aspx</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  </urlset>
