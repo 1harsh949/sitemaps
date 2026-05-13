@@ -213,7 +213,6 @@
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p526</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p527</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p535</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/publications/p536</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p538</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p541</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p542</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.9</ns0:priority></ns0:url>
@@ -236,18 +235,11 @@
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p970</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p974</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p15</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/publications/p15-a</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/publications/p15-b</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/publications/p15-t</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
   
   <ns0:url><ns0:loc>https://www.irs.gov/tax-professionals/written-determinations</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/privacy-disclosure/foia-library</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/pub/irs-drop/rp-25-32.pdf</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/forms-pubs/revenue-procedures</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/forms-pubs/revenue-rulings</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/forms-pubs/notices</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/forms-pubs/announcements</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.7</ns0:priority></ns0:url>
 
   
   <ns0:url><ns0:loc>https://home.treasury.gov</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>monthly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
@@ -488,20 +480,6 @@
   </ns0:url>
 
   <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
     <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
     <ns0:lastmod>2026-04-24</ns0:lastmod>
     <ns0:changefreq>monthly</ns0:changefreq>
@@ -517,13 +495,6 @@
 
   <ns0:url>
     <ns0:loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
     <ns0:lastmod>2026-04-24</ns0:lastmod>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.9</ns0:priority>
@@ -555,13 +526,6 @@
     <ns0:lastmod>2026-04-24</ns0:lastmod>
     <ns0:changefreq>yearly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
   </ns0:url>
   <ns0:url>
     <ns0:loc>https://www.law.cornell.edu/uscode/text/26/2601</ns0:loc>
@@ -8101,6 +8065,54 @@
   </ns0:url>
   <ns0:url>
     <ns0:loc>https://www.ustaxcourt.gov/resources/pamphlets/162_TC_148-199.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-publication-536</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-publication-15-t</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-publication-15-b</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-publication-15-a</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/form-1099-k-faqs</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/inflation-adjusted-tax-items-by-tax-year</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/internal-revenue-bulletins</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-statements-and-announcements</ns0:loc>
     <ns0:lastmod>2026-05-13</ns0:lastmod>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>

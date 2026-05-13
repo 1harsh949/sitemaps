@@ -305,7 +305,6 @@
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p529</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p530</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p535</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
-  <ns0:url><ns0:loc>https://www.irs.gov/publications/p536</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p537</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p538</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
   <ns0:url><ns0:loc>https://www.irs.gov/publications/p541</ns0:loc><ns0:lastmod>2026-04-24</ns0:lastmod><ns0:changefreq>yearly</ns0:changefreq><ns0:priority>0.8</ns0:priority></ns0:url>
@@ -448,28 +447,7 @@
   </ns0:url>
 
   <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/frequently-asked-questions-about-form-1099-k</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/credits-deductions/trump-accounts</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
     <ns0:loc>https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/inflation-adjustments</ns0:loc>
     <ns0:lastmod>2026-04-24</ns0:lastmod>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.9</ns0:priority>
@@ -515,13 +493,6 @@
     <ns0:lastmod>2026-04-24</ns0:lastmod>
     <ns0:changefreq>weekly</ns0:changefreq>
     <ns0:priority>1.0</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://www.irs.gov/newsroom/irs-announces-2026-tax-inflation-adjustments-revenue-procedure-2025-32</ns0:loc>
-    <ns0:lastmod>2026-04-24</ns0:lastmod>
-    <ns0:changefreq>monthly</ns0:changefreq>
-    <ns0:priority>0.9</ns0:priority>
   </ns0:url>
 
   <ns0:url>
@@ -3246,6 +3217,36 @@
   </ns0:url>
   <ns0:url>
     <ns0:loc>https://www.irs.gov/submit-power-of-attorney-and-tax-information-authorizations</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-publication-536</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/form-1099-k-faqs</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/inflation-adjusted-tax-items-by-tax-year</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/trumpaccounts</ns0:loc>
     <ns0:lastmod>2026-05-13</ns0:lastmod>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
