@@ -8117,5 +8117,59 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.414%28c%29-2</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irb/2024-02_IRB</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.168%28k%29-2</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.179-1</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irb/2026-13_IRB</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/50</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ecfr.gov/current/title-26/part-1/section-1.469-9</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-and-earned-income-tax-credit-eitc-tables</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.162-4</ns0:loc>
+    <ns0:lastmod>2026-05-13</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
 </ns0:urlset>
