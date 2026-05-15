@@ -3749,4 +3749,34 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/form-1040-schedule-c/common-questions-individual-schedule-c-lacerte/L49bt37Cy_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-15</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/cost-goods-sold/entering-form-1125-cost-goods-sold-lacerte/L5u9A2cjo_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-15</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/form-1040/import-quickbooks-online-trial-balance-data/L0wtCWYij_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-15</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/partnership/using-lacerte-trial-balance-utility-import-excel/L19njx4ka_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-15</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/federal-taxes/using-lacerte-data-conductor-import-data/L0wLtZ9Qy_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-15</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
