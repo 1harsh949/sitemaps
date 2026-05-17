@@ -8249,5 +8249,59 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.164-1</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.164-6</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-pdf/f8655.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-pdf/p1474.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irb/2012-34_IRB</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/reporting-agents-file-raf</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/reporting-agents-file-raf-tips-and-tricks</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/uscode/text/26/2501</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/25.2511-1</ns0:loc>
+    <ns0:lastmod>2026-05-17</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
 </ns0:urlset>
