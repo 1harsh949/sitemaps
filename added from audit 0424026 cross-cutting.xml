@@ -438,4 +438,34 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/amending-a-return-youtube-video-text-script</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1065-x</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1127</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-self-service-payment-plan-options-fast-easy-and-secure</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/taxpayers-who-need-help-paying-their-tax-bill-have-options</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>

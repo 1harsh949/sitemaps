@@ -3293,4 +3293,52 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/businesses/small-businesses-self-employed/temporarily-delay-the-collection-process</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-1127</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/government-entities/federal-state-local-governments/de-minimis-fringe-benefits</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/charities-non-profits/federal-tax-obligations-of-nonprofit-corporations</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/payments/simple-payment-plans-for-individuals-and-businesses</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/irs-self-service-payment-plan-options-fast-easy-and-secure</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/taxpayers-who-need-help-paying-their-tax-bill-have-options</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-access/p6103_accessible.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-16</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
