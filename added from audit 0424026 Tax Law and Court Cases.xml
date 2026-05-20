@@ -8327,5 +8327,59 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.law.cornell.edu/cfr/text/26/1.1221-1</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/files/documents/rule-23.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/files/documents/rule-26.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/files/documents/rule-34.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ustaxcourt.gov/dawson-faqs-case-management/</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.ustaxcourt.gov/dawson-tou/</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/petitioners-start/</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/resources/dawson/DAWSON_Petitioner_Training_Guide.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://ustaxcourt.gov/files/documents/164_TC_57-73.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 
 </ns0:urlset>

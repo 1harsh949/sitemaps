@@ -3341,4 +3341,52 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irm/part4/irm_04-010-004</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irm/part4/irm_04-022-001</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irm/part13/irm_13-001-023</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/taxpayer-bill-of-rights-6</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/taxpayer-bill-of-rights-9</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/pub/irs-pdf/p1.pdf</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irb/2025-24_IRB#REV-PROC-2025-23</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/irb/2015-05_IRB#RP-2015-13</ns0:loc>
+    <ns0:lastmod>2026-05-19</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
