@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>./added%20from%20audit%200424026%20Alabama.xml</loc>
@@ -165,10 +165,6 @@
     <lastmod>2026-04-24</lastmod>
   </sitemap>
   <sitemap>
-    <loc>./added%20from%20audit%200424026%20Software%20%28Lacerte%2C%20UltraTax%2C%20ProConnect%29.xml</loc>
-    <lastmod>2026-04-24</lastmod>
-  </sitemap>
-  <sitemap>
     <loc>./added%20from%20audit%200424026%20South%20Carolina.xml</loc>
     <lastmod>2026-04-24</lastmod>
   </sitemap>
@@ -219,5 +215,29 @@
   <sitemap>
     <loc>./added%20from%20audit%200424026%20cross-cutting.xml</loc>
     <lastmod>2026-04-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20Lacerte.xml</loc>
+    <lastmod>2026-05-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20UltraTax.xml</loc>
+    <lastmod>2026-05-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20ProConnect.xml</loc>
+    <lastmod>2026-05-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20CCH.xml</loc>
+    <lastmod>2026-05-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20Drake.xml</loc>
+    <lastmod>2026-05-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>./added%20from%20audit%200424026%20Software%20TaxDome.xml</loc>
+    <lastmod>2026-05-28</lastmod>
   </sitemap>
 </sitemapindex>
