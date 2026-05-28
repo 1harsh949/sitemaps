@@ -274,4 +274,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dam.ldr.la.gov/taxforms/6981-1-26-revised-4-17-2026-F.pdf</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dam.ldr.la.gov/lawspolicies/LAC%2061.I.1001%20and%201302%20%28Current%20Regulation%29.pdf</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

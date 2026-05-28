@@ -3821,4 +3821,22 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/form-1040/generating-schedule-1-lacerte/L0UWVwZ8X_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/form-1099-misc/entering-amounts-form-1099-misc-individual-lacerte/L59LWoXoV_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://accountants.intuit.com/support/en-us/help-article/form-1099-nec/enter-form-1099-nec-nonemployee-compensation/L8kepW5j0_US_en_US</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>

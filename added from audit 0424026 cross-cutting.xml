@@ -516,4 +516,34 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.8</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.federalregister.gov/documents/2025/07/10/2025-12803/supplemental-disaster-relief-program-sdrp-stage-1</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.federalregister.gov/documents/2025/11/18/2025-20132/agricultural-disaster-indemnity-programs</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.irs.gov/forms-pubs/about-form-w-2-c</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://www.federalregister.gov/documents/2014/07/23/2014-17336/basis-of-indebtedness-of-s-corporations-to-their-shareholders</ns0:loc>
+    <ns0:lastmod>2026-05-28</ns0:lastmod>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.8</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
