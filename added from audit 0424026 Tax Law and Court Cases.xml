@@ -1656,12 +1656,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-24-40.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  
   <url>
     <loc>https://www.irs.gov/pub/irs-drop/n-26-11.pdf</loc>
     <lastmod>2026-04-24</lastmod>
@@ -1782,12 +1777,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2024-19_IRB</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/cfr/text/26/1.162-1</loc>
     <lastmod>2026-05-02</lastmod>
@@ -1824,12 +1814,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2024-45_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.congress.gov/119/plaws/publ21/PLAW-119publ21.pdf</loc>
     <lastmod>2026-05-03</lastmod>
@@ -4224,18 +4209,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-23-75.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-24-80.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR811643fb63694b8/section-1.167(a)-11</loc>
     <lastmod>2026-05-03</lastmod>
@@ -4662,12 +4636,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2024-23_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.ecfr.gov/current/title-26/section-1.446-1</loc>
     <lastmod>2026-05-03</lastmod>
@@ -4830,12 +4799,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-23-34.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/uscode/text/26/423</loc>
     <lastmod>2026-05-03</lastmod>
@@ -5520,18 +5484,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-20-51.pdf</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/n-24-35.pdf</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>https://www.federalregister.gov/documents/2024/07/19/2024-14542/required-minimum-distributions</loc>
     <lastmod>2026-05-04</lastmod>
@@ -5904,12 +5857,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.federalregister.gov/documents/2023/02/10/2023-02964/major-disaster-declarations-and-related-determinations-expiration-of-covid-19-related-measures</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-cv-00267/pdf/USCOURTS-cofc-1_23-cv-00267-0.pdf</loc>
     <lastmod>2026-05-13</lastmod>
@@ -7002,12 +6950,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2023-48_IRB</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.irs.gov/irm/part20/irm_20-001-010r</loc>
     <lastmod>2026-06-04</lastmod>
@@ -7044,24 +6987,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rr-25-01.pdf</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rr-25-05.pdf</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rr-25-06.pdf</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
+  
   <url>
     <loc>https://www.govinfo.gov/content/pkg/CFR-2012-title26-vol3/pdf/CFR-2012-title26-vol3-sec1-199-2.pdf</loc>
     <lastmod>2026-06-05</lastmod>
@@ -7128,4 +7055,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- always-current AFR index; replaces pinned monthly AFR rulings removed 2026-06-06 -->
+  <url><loc>https://www.irs.gov/applicable-federal-rates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
