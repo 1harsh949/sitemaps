@@ -234,4 +234,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://labor.alaska.gov/estax/home.htm</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.commerce.alaska.gov/web/cbpl/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.commerce.alaska.gov/web/cbpl/BusinessLicensing</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.commerce.alaska.gov/web/cbpl/corporations</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.alaska.gov/programs/programs/other/corporate/mef.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

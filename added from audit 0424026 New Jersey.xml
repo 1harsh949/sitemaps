@@ -276,4 +276,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://www.nj.gov/treasury/taxation/taxtables.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.nj.gov/treasury/taxation/njit20.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.nj.gov/treasury/taxation/njit22.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.nj.gov/treasury/taxation/njtaxcal.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.nj.gov/treasury/taxation/git_over.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.nj.gov/treasury/taxation/prntgit.shtml</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

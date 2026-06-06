@@ -150,4 +150,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://www.michigan.gov/taxes/business-taxes/flowthrough-entity-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/refund</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/iitpayments</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/file-your-income-taxes/amended-returns</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/efile/iit/michigan-individual-income-tax-e-file</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/file-your-income-taxes/resident-and-non-resident-income-faqs</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/fiduciary</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

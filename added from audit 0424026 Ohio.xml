@@ -166,4 +166,7 @@
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url></urlset>
+  </url>
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://tax.ohio.gov/individual/pay-now-landing</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/business/employer-withholding</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/business/pass-through-entity-and-fiduciary-income-tax/it-1041</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/about/ohtax-eservices</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/individual/notices</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/business/financial-institutions-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://tax.ohio.gov/individual/ohtax-eligibility</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

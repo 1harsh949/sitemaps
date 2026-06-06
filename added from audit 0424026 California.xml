@@ -648,4 +648,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://www.ftb.ca.gov/refund/index.asp</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/myftb/index.asp</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/help/contact/index.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/index.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/file/when-to-file/due-dates-business.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/file/when-to-file/index.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

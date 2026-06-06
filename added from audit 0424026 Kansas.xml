@@ -163,4 +163,7 @@
     <priority>0.8</priority>
   </url>
 
-  <url><loc>https://ksrevenue.gov/persinctax.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ksrevenue.gov/corpinctax.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url></urlset>
+  <url><loc>https://ksrevenue.gov/persinctax.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ksrevenue.gov/corpinctax.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://www.ksrevenue.gov/perstaxtypesfid.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ksrevenue.gov/scorpbook25.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ksrevenue.gov/taxpayment.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ksrevenue.gov/payplan.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ksrevenue.gov/contactus.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ksrevenue.gov/incomebook25.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
