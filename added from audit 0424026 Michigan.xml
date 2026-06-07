@@ -153,4 +153,22 @@
 
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://www.michigan.gov/taxes/business-taxes/flowthrough-entity-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/refund</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/iitpayments</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/file-your-income-taxes/amended-returns</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/efile/iit/michigan-individual-income-tax-e-file</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/file-your-income-taxes/resident-and-non-resident-income-faqs</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/fiduciary</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Efile-Publications/TY2025/2025-IIT-Preparer-Handbook.pdf?hash=DA5FF941FBD2E12D21E936AFB276793E&amp;rev=aa5529f131e1474c96fa457f573dbef9</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/IIT/TY2024/MI-1040-Instructions.pdf?hash=803801FFA6DFBB5A1F83BA829FF8B883&amp;rev=ecf46c9a7aff4288bad71867a7298671</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Efile-Publications/TY2024/2024-IIT-Preparer-Handbook.pdf?hash=F05594D8F79B2FBAAA6F52A1BD4F6BB4&amp;rev=6a53a008699f40489dd5d697afed236f</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
