@@ -1905,12 +1905,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2008-02_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/uscode/text/26/1372</loc>
     <lastmod>2026-05-03</lastmod>
@@ -1971,12 +1966,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2010-20_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.irs.gov/irm/part4/irm_04-019-015r</loc>
     <lastmod>2026-05-03</lastmod>
@@ -2283,12 +2273,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-irbs/irb97-52.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/uscode/text/26/194</loc>
     <lastmod>2026-05-03</lastmod>
@@ -2589,12 +2574,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-irbs/irb99-07.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.congress.gov/bill/119th-congress/house-bill/1/text/pl?format=txt&amp;overview=closed</loc>
     <lastmod>2026-05-03</lastmod>
@@ -2685,12 +2665,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2008-02_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.irs.gov/irb/2005-04_IRB</loc>
     <lastmod>2026-05-03</lastmod>
@@ -3105,12 +3080,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2003-30_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/section-1.403%28b%29-6</loc>
     <lastmod>2026-05-03</lastmod>
@@ -3279,12 +3249,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/irb/2008-02_IRB</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/uscode/text/26/1372</loc>
     <lastmod>2026-05-03</lastmod>
@@ -5370,12 +5335,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-irbs/irb00-52.pdf</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.law.cornell.edu/cfr/text/26/1.162-11</loc>
     <lastmod>2026-05-04</lastmod>
@@ -6988,7 +6948,6 @@
     <priority>0.8</priority>
   </url>
 
-  
   <url>
     <loc>https://www.govinfo.gov/content/pkg/CFR-2012-title26-vol3/pdf/CFR-2012-title26-vol3-sec1-199-2.pdf</loc>
     <lastmod>2026-06-05</lastmod>
