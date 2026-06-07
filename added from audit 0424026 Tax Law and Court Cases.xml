@@ -6880,12 +6880,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.govinfo.gov/app/details/FR-2023-02-10/2023-02964</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.ecfr.gov/current/title-26/section-1.199A-2</loc>
     <lastmod>2026-06-04</lastmod>
@@ -7023,7 +7018,5 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  
-
-  
 
 </urlset>
