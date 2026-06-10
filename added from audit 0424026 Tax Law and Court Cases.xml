@@ -7047,6 +7047,24 @@
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.law.cornell.edu/cfr/text/26/1.213-1</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ecfr.gov/current/title-26/section-1.1031(a)-3</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.irs.gov/irm/part4/irm_04-011-057</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>  
 
 </urlset>

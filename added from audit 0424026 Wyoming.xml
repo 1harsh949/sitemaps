@@ -345,4 +345,10 @@
 
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://excise-tax-div.wyo.gov/contact-us</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://excise-tax-div.wyo.gov/excise-tax-e-services</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://excise-tax-div.wyo.gov/sales-use-tax-rate-charts</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://excise-wyifs.wy.gov/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://mineral-wyifs.wy.gov/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://mineral-tax-div.wyo.gov/general-administrative/wyifs</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://audit.wyo.gov/excise-tax/taxpayer-bill-of-rights</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://wyoleg.gov/statutes/compress/title17.pdf</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

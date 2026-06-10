@@ -207,4 +207,16 @@
 
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://www.tn.gov/revenue/events.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/e-file-and-pay/tntap-information.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/taxes/motor-fuel-taxes.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/taxes/tobacco-taxes.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/tax-resources/legal-resources.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/tax-resources/legal-resources/important-notices.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/tax-resources/legal-resources/tax-rulings.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/about-us/contact-us.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tn.gov/revenue/how-do-i----.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://wapp.capitol.tn.gov/apps/tncode/default.aspx?chapter=0249&amp;section=0309&amp;title=48</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sos.tn.gov/businesses</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
