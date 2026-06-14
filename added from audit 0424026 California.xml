@@ -649,4 +649,22 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://www.ftb.ca.gov/forms/2025/2025-199-booklet.html</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-d-instructions.html</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-booklet.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-1540.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-x-instructions.html</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-3885-instructions.html</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-s-instructions.html</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&amp;sectionNum=17701.10</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=4.&amp;chapter=&amp;division=&amp;lawCode=CORP&amp;part=&amp;title=2.6.</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=2.&amp;chapter=&amp;division=&amp;lawCode=CORP&amp;part=&amp;title=2.6.</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
