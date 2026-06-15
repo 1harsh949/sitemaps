@@ -249,4 +249,28 @@
 
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://www.in.gov/dor/i-am-a/individual/check-refund/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/i-am-a/individual/individual-income-county-tax-rates-by-year/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/resources/tax-rates-and-reports/rates-fees-and-penalties/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/i-need-to/make-a-payment/estimated-payments/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/tax-forms/other-forms/ptet/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/tax-forms/fiduciary/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/i-am-a/individual/tax-filing-deadlines/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/resources/tax-library/departmental-notices/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.in.gov/dor/resources/tax-library/information-bulletins/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://www.in.gov/dor/i-am-a/business-corp/business-faq/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.in.gov/dor/i-am-a/individual/file-an-amended-return/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.in.gov/dor/i-need-to/request-a-penalty-abatement/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.in.gov/dor/tax-forms/corporate/current-corporatepartnership/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
