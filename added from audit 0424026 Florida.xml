@@ -226,4 +226,16 @@
   </url>
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://floridarevenue.com/taxes/Pages/gta_contact.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/Pages/taxpayers_bill_of_rights.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/compliance/Pages/refunds.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/Pages/severance.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/tips/Pages/default.aspx</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://floridarevenue.com/Forms_library/current/dr1n.pdf</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0600-0699/0607/Sections/0607.1503.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
