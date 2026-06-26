@@ -78,4 +78,10 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://dor.georgia.gov/document/document/2025-it-511-individual-income-tax-booklet/download</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://dor.georgia.gov/media/34396/download</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
