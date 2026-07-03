@@ -328,4 +328,16 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://www.tax.ny.gov/forms/current-forms/it/it203i.htm</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tax.ny.gov/pdf/2025/inc/it196i_2025.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tax.ny.gov/pdf/2025/inc/it196_2025_fill_in.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tax.ny.gov/pit/file/itemized-deductions-2025.htm</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.tax.ny.gov/pdf/2025/inc/it204i_2025.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://www.nysenate.gov/legislation/laws/EXC/172-B</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.tax.ny.gov/pdf/current_forms/it/it370i.pdf</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
