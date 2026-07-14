@@ -202,4 +202,40 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/alerts/tax-alert-changes-to-tax-year-2026-pass-through-entity-estimated-payments.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gca&amp;section=5-101</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gca&amp;section=5-102</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gca&amp;section=1-502</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gca&amp;section=4A-204</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gho&amp;section=8-101</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marylandtaxes.gov/business/tax-compliance/starting-a-business.php</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
