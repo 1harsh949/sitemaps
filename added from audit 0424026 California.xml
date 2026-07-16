@@ -715,4 +715,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.ftb.ca.gov/file/personal/tax-calculator-tables-rates.asp</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ftb.ca.gov/forms/2020/2020-540-booklet.pdf</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ftb.ca.gov/tax-pros/california-tax-education-council.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=&amp;chapter=14.&amp;division=8.&amp;lawCode=BPC&amp;part=&amp;title=</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

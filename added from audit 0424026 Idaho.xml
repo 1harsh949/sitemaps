@@ -43,4 +43,16 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00330/EFO00330_09-19-2025.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://tax.idaho.gov/wp-content/uploads/forms/EFO00088/EFO00088_03-02-2026.pdf</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://legislature.idaho.gov/statutesrules/idstat/title63/t63ch30/sect63-3022a/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
