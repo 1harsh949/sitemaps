@@ -21,4 +21,40 @@
 
   <!-- 18 official-help pages mirrored to Markdown 2026-06-06 (source site not crawlable) -->
   <url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/install.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/data-entry-windows-overview.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/use-source-data-entry.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/proforma-client-data-from-the-previous-year.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/data-sharing-overview.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/enter-detailed-asset-data.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/review-diagnostic-messages.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/general-electronic-filing-information.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/submit-e-file-application-summary.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/define-the-1040-electronic-filing-configuration.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/define-the-1120-electronic-filing-configuration.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/prepare-electronic-returns.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/fix-efile-errors.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/troubleshoot-receiving-e-file-acknowledgements.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/electronic-filing-reports.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/select-the-state-return-to-process.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/enter-apportionment-data-for-state-returns.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://raw.githubusercontent.com/1harsh949/sitemaps/main/vendor-content/ultratax/entering-1065-apportionment-data-for-state-returns.md</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://tax.thomsonreuters.com/en/products/ultratax-cs</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thomsonreuters.com/en-us/help/ultratax-cs/e-file/create-and-transmit-electronic-files</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thomsonreuters.com/en-us/help/ultratax-cs/e-file.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.thomsonreuters.com/us/en/cs-professional-suite</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.thomsonreuters.com/en/products/ultratax-cs/features</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.thomsonreuters.com/en/tax-accounting/tax-software-for-accountants</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
