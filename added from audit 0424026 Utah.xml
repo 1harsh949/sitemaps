@@ -54,4 +54,16 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://files.tax.utah.gov/tax/forms/current/tc-40a.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://files.tax.utah.gov/tax/forms/current/tc-40w.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://le.utah.gov/xcode/Title59/Chapter7/59-7-S612.html</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://le.utah.gov/xcode/Title59/Chapter10/59-10-S1012.html</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
