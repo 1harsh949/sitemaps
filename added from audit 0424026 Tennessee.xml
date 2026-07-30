@@ -219,4 +219,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://revenue.support.tn.gov/hc/en-us/articles/360057956112-F-E-15-Inactive-Business-Final-Return-and-Closing-Your-Account</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenue.support.tn.gov/hc/en-us/articles/26262384974228-FT-13-Property-Measure-Repeal</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenue.support.tn.gov/hc/en-us/articles/360058276171-FT-2-Franchise-Tax-Computation-on-a-Final-Return</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

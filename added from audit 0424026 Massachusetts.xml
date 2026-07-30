@@ -44,4 +44,28 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/regulations/830-CMR-625a1-non-resident-income-tax</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/info-details/who-must-file-a-massachusetts-personal-income-tax-return</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/info-details/ma-gross-adjusted-gross-and-taxable-income-for-nonresidents</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mass.gov/info-details/learn-about-rent-royalties-and-remic</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url></urlset>

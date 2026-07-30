@@ -7728,4 +7728,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR8a5caea47dc4c63/section-1.6046-1</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.irs.gov/newsroom/when-and-how-to-amend-a-tax-return</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.irs.gov/help/creating-an-account-for-irsgov</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
