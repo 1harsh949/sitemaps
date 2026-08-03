@@ -182,4 +182,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://businessfilings.sc.gov/BusinessFiling/Home/DownloadForms?category=Termination+%2F+Dissolution+%2F+Cancellation&amp;pdfCategoryId=5</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scbos.sc.gov/business-compliance/registrations/closing</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dor.sc.gov/notices-compliance/request-certificate-compliance</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
