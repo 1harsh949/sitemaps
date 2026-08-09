@@ -102,4 +102,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://comptroller.texas.gov/taxes/exempt/faq.php/1000</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://comptroller.texas.gov/taxes/publications/94-124.php/1000</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
