@@ -166,4 +166,16 @@
   </url>
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://dor.mo.gov/taxation/return-status/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/payment-options/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/individual/tax-types/fiduciary/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/individual/additional-resources/non-residents.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/individual/tax-types/income/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/individual/tax-types/income/filing.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/statutory-interest-rates.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/online-services/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/taxation/individual/tax-types/income/efile.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.mo.gov/contact/individual-income-tax-information.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://revisor.mo.gov/main/OneSection.aspx?bid=7261&amp;section=143.581</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dor.mo.gov/faq/taxation/business/partnership.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
