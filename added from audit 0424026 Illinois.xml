@@ -206,4 +206,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://tax.illinois.gov/forms/incometax/currentyear/individual/il-1040-schedule-cr-instr.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.illinois.gov/research/publications/pubs/pass-through-information/states-with-substantially-similar-entity-level-tax-as-illinois-.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.illinois.gov/research/publications/pubs/illinois-schedule-cr-for-individuals.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tax.illinois.gov/research/publications/pubs/pass-through-information.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
