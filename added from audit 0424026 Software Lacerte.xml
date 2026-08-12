@@ -162,4 +162,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://accountants.intuit.com/support/en-us/help-article/electronic-filing/attaching-pdfs-business-returns-e-filing-proseries/L3oLGQlbG_US_en_US</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://accountants.intuit.com/support/en-us/help-article/electronic-filing/attach-pdf-files-federal-state-electronic-filing/L3v6Nqo0a_US_en_US</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
