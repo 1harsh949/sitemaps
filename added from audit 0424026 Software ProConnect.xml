@@ -144,4 +144,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://accountants.intuit.com/support/en-us/help-article/form-1095/enter-form-1095-proconnect/L6cmybWKN_US_en_US</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://accountants.intuit.com/support/en-us/help-article/form-1095/common-questions-form-8962-premium-tax-credit-tax/L6L3xZxBJ_US_en_US</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
