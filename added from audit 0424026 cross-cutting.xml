@@ -4049,5 +4049,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.irs.gov/newsroom/treasury-irs-allow-states-to-make-an-advance-election-to-participate-in-the-new-federal-tax-credit-for-individual-contributions-to-scholarship-granting-organizations-under-the-one-big-beautiful-bill</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
