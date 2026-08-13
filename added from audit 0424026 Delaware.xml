@@ -107,4 +107,28 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://revenuefiles.delaware.gov/2025/BusinessTaxForms_Instructions/CIT-TAX_2025-01_Instructions.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenuefiles.delaware.gov/2025/BusinessTaxForms_Instructions/SCT-RTN_2025-01_Instructions.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenuefiles.delaware.gov/2025/BusinessTaxForms_Instructions/PRT-RTN_2025-01_Instructions.pdf</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://corp.delaware.gov/howtoform/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://corp.delaware.gov/faqs/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://delcode.delaware.gov/title8/c001/sc01/index.html#103</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://delcode.delaware.gov/title6/c018/sc02/index.html#18-201</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
