@@ -417,4 +417,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.nj.gov/treasury/taxation/inheritance-estate/inheritance-taxfilerequirements.shtml</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nj.gov/www.nj.gov/treasury/taxation/prntinh.shtml</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nj.gov/www.nj.gov/treasury/taxation/inheritance-estate/inheritance.shtml</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nj.gov/www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/transferinheritanceclasses.pdf</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nj.gov/www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/o10c.pdf</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nj.gov/www.nj.gov/treasury/taxation/revesttax.shtml</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
