@@ -212,4 +212,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dor.sc.gov/index.php/news/information-about-h-4216</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scstatehouse.gov/query.php?category=LEGISLATION&amp;conid=77514837&amp;keyval=1264216&amp;numrows=10&amp;result_pos=0&amp;search=DOC&amp;searchtext=4216&amp;session=126</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.dor.sc.gov/iit/prepare-you-file/iit-faqs</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dor.sc.gov/tax-tips/retirees-lower-your-individual-income-tax-bill-with-these-five-tips</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dor.sc.gov/tax-tips/take-advantage-these-family-tax-credits-and-deductions</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
