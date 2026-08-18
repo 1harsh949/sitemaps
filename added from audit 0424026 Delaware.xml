@@ -131,4 +131,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://delcode.delaware.gov/title30/c005/sc03/index.html</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/PIT-UND_Instructions_2025-01.pdf</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/PIT-NON_Instructions_2025-01.pdf</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
