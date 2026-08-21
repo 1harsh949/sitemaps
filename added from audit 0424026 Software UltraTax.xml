@@ -63,4 +63,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.thomsonreuters.com/en-us/help/ultratax-cs/1120/calculations/order-used-when-s-corp-makes-a-distribution</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thomsonreuters.com/en-us/help/ultratax-cs/1120/balance-sheet/allow-distributions-to-reduce-the-aaa-below-0</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thomsonreuters.com/en-us/help/ultratax-cs/1120/shareholder/enter-shareholder-information</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
