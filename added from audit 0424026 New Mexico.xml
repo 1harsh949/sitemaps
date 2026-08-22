@@ -76,4 +76,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.nmlegis.gov/sessions/24%20Regular/bills/house/HB0252TRS.HTML</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nmlegis.gov/Legislation/Legislation?chamber=H&amp;legNo=252&amp;legType=B&amp;year=24</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
