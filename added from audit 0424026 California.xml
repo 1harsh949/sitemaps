@@ -1021,4 +1021,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=1.&amp;chapter=5.&amp;lawCode=CORP&amp;title=2.</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edd.ca.gov/en/payroll_taxes/am_i_required_to_register_as_an_employer</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
