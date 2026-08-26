@@ -55,4 +55,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://tax.idaho.gov/taxes/income-tax/business-income/guides-for-certain-businesses/income-tax-for-fiduciaries/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
