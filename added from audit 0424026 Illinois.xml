@@ -242,4 +242,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.ilga.gov/legislation/ILCS/details?ActID=2290&amp;ActName=Limited+Liability+Company+Act.&amp;ChapAct=805+ILCS+180/&amp;Chapter=BUSINESS+ORGANIZATIONS&amp;ChapterID=65&amp;MajorTopic=BUSINESS+AND+EMPLOYMENT&amp;Print=True&amp;SeqEnd=16500000&amp;SeqStart=15800000</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://my.ilga.gov/Legislation/ILCS/Articles?ActID=2274&amp;Chapter=BUSINESS+ORGANIZATIONS&amp;ChapterID=65&amp;MajorTopic=BUSINESS+AND+EMPLOYMENT</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3649&amp;Chapter=BUSINESS+ORGANIZATIONS&amp;ChapterID=65&amp;MajorTopic=BUSINESS+AND+EMPLOYMENT&amp;Print=True</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
