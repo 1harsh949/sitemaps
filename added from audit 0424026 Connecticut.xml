@@ -67,4 +67,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://portal.ct.gov/-/media/sots/regulations/Title_12/426pdf.pdf</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eregulations.ct.gov/eRegsPortal/Browse/RCSA/Title_12Subtitle_12-407%282%29%28i%29%28aa%29Section_12-407%282%29%28i%29%28aa%29-1/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal.ct.gov/DRS/Publications/TSSNs/TSSN-20</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal.ct.gov/-/media/drs/publications/pubsip/2018/ip-2018%282%29.pdf</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal.ct.gov/DRS/Sales-Tax/Tax-Information</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
