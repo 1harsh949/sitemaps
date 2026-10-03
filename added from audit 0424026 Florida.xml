@@ -286,4 +286,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.leg.state.fl.us/STATUTES/index.cfm?App_mode=Display_Statute&amp;URL=0500-0599/0532/0532.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;URL=0400-0499/0448/0448.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
