@@ -55,4 +55,28 @@
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
   <url><loc>https://tax.vermont.gov/document/2025-form-bi-471</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://legislature.vermont.gov/statutes/section/21/005/00342a</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://legislature.vermont.gov/statutes/section/21/005/00342</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://legislature.vermont.gov/statutes/section/21/005/00345</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://legislature.vermont.gov/statutes/section/12/023/00511</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
