@@ -141,4 +141,16 @@
 
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://oklahoma.gov/tax/helpcenter/income-tax.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://oklahoma.gov/tax/helpcenter/businesses.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://oklahoma.gov/tax/helpcenter/oktap.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://oklahoma.gov/tax/reporting-resources/rules-policies.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://oklahoma.gov/tax/reporting-resources/rules-policies/letter-rulings.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://oklahoma.gov/tax/helpcenter/taxdocs.html</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-Pkt.pdf</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-NOL.pdf</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
