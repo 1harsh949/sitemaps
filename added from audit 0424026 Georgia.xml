@@ -4,43 +4,30 @@
   
   <url><loc>https://dor.georgia.gov/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://dor.georgia.gov/taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/individual-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/business-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
   
-  <url><loc>https://dor.georgia.gov/taxes/individual-income-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/individual-income-tax-forms</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/document/form/2024-it-511-individual-income-tax-booklet/download</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/500-individual-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/500-nol-net-operating-loss-adjustment</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
   <url><loc>https://dor.georgia.gov/taxes/business-taxes/corporate-income-and-net-worth-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/600-corporation-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/600s-corporation-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/700-partnership-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
-  <url><loc>https://dor.georgia.gov/pass-through-entities</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://dor.georgia.gov/regulations</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dor.georgia.gov/policy-bulletins</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   
-  <url><loc>https://dor.georgia.gov/taxes/business-taxes/income-tax-credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/job-tax-credit</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dor.georgia.gov/film-tax-credit</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dor.georgia.gov/retirement-income-exclusion</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
 
   
-  <url><loc>https://dor.georgia.gov/income-tax-rate-changes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
   <url><loc>https://dor.georgia.gov/taxes/business-taxes/sales-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dor.georgia.gov/sales-tax-rates-current-historical-and-upcoming</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://dor.georgia.gov/taxes/withholding-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dor.georgia.gov/document/form/2025-employers-tax-guide/download</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 
   <url>
     <loc>https://dor.georgia.gov/residency-filing-requirements</loc>
@@ -72,8 +59,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://dor.georgia.gov/taxes/individual-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/individual-taxes/pay-individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/business-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/individual-taxes/georgia-tax-credits</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/business-taxes/withholding-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/forms</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://dor.georgia.gov/taxes/individual-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/individual-taxes/pay-individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/business-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://dor.georgia.gov/taxes/check-my-refund-status</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/501-fiduciary-income-tax-return</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/501-and-501x-fiduciary-income-tax-instruction-booklet</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/requesting-extension</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/penalty-and-interest-rates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/500x-amended-individual-income-tax-return</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/taxes/tax-faqs-due-dates-and-other-resources/tax-due-dates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.georgia.gov/sign-online-access-gtc</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->
@@ -98,12 +84,6 @@
   </url>
   <url>
     <loc>https://dor.georgia.gov/g2-fp</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dor.georgia.gov/document/document/2026-employers-tax-guide/download</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

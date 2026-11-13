@@ -7,12 +7,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/pub/irs-drop/rp-25-19.pdf</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>yearly</changefreq>
@@ -50,12 +44,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/tax-professionals/standard-mileage-rates</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -1555,12 +1543,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/publications/p594</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/publications/p596</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>yearly</changefreq>
@@ -2071,12 +2053,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/tax-professionals/circular-230</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/forms-pubs/about-publication-1</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -2114,12 +2090,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/pub/irs-drop/rp-02-22.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-84-35.pdf</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
@@ -2683,12 +2653,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/280A</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/forms-pubs/about-form-8829</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -2702,12 +2666,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/businesses/small-businesses-self-employed/simplified-option-for-home-office-deduction</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i1120s</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2786,12 +2744,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/instructions/i1040sc</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p334</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2882,18 +2834,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/taxtopics/tc653</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/form843</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i843</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3115,12 +3055,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/instructions/i1040gi</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/faqs/social-security-income</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -3140,12 +3074,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/instructions/i1098et</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p1099</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3181,12 +3109,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/instructions/i1040sc</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/forms-pubs/about-schedule-c-form-1040</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -3194,12 +3116,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/faqs/small-business-self-employed-other-business/form-1099-nec-and-independent-contractors</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p1099</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3230,12 +3146,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/businesses/small-businesses-self-employed/digital-assets</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i8949</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3290,12 +3200,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/businesses/international-businesses/foreign-corporation-form-1120-f-filing-responsibilities</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.law.cornell.edu/cfr/text/26/301.7701-2</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3397,12 +3301,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/newsroom/irs-published-schedule-taxpayers-will-use-to-claim-deductions-on-no-tax-on-tips-no-tax-on-overtime-no-tax-on-car-loans-no-tax-on-seniors</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/irb/2025-50_IRB</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -3410,12 +3308,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/newsroom/treasury-irs-provide-guidance-for-individuals-who-received-tips-or-overtime-during-tax-year-2025</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/224</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -3463,12 +3355,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.congress.gov/119/plaws/publ21/PLAW-119publ21.htm</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.federalregister.gov/documents/2026/01/02/2025-24154/car-loan-interest-deduction</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -3488,12 +3374,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/credits-deductions/individuals/education-credits-aotc-llc</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/eitc-central/compare-education-credits</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4093,12 +3973,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/instructions/i1040sd</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/irm/part21/irm_21-006-003r</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -4171,18 +4045,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.law.cornell.edu/uscode/text/26/6049</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/newsroom/form-1099-k-faqs-general-information</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010/subpart-A/section-1010.100</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -4208,12 +4070,6 @@
   </url>
   <url>
     <loc>https://www.law.cornell.edu/uscode/text/26/1362</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/businesses/business-name-change</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4789,12 +4645,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/charities-non-profits/automatic-revocation-how-to-have-your-tax-exempt-status-reinstated</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/charities-non-profits/automatic-revocation-of-exemption</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -5263,12 +5113,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/pub/fatca/int_practice_units/irc958-stock-ownership.pdf</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/instructions/i8992</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5401,25 +5245,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/publications/p590-a</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p590-b</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/publications/p595</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/publications/p954</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -5468,12 +5294,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/tax-professionals/enrolled-agents</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/tax-professionals/office-of-professional-responsibility-opr</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8100,12 +7920,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.irs.gov/pub/irs-drop/rp-26-01.pdf</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.irs.gov/forms-instructions-and-publications?find=Form+433-A</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -8321,12 +8135,6 @@
   </url>
   <url>
     <loc>https://www.irs.gov/pub/irs-drop/rr-99-23.pdf</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/charities-non-profits/student-fica-exception</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -8856,12 +8664,6 @@
   <url>
     <loc>https://www.law.cornell.edu/definitions/uscode.php?def_id=26-USC-2050229528-298491989</loc>
     <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.irs.gov/instructions/i6252</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

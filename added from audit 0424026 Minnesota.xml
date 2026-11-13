@@ -43,12 +43,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.revenue.state.mn.us/pass-through-entity-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.revenue.state.mn.us/sales-and-use-tax</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,66 +67,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.revenue.state.mn.us/minnesota-tax-forms</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/form-m1-individual-income-tax-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/form-m1pr-homestead-credit-refund</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/form-m4-corporation-franchise-tax-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/form-m8-s-corporation-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/form-m3-partnership-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/schedule-kpi-partner-shareholder-information</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/schedule-kpc-partner-corporate-shareholder</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/schedule-pte-pass-through-entity-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/research-credit</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.revenue.state.mn.us/working-family-credit</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -143,12 +77,6 @@
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/k-12-education-credit-and-subtraction</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.revenue.state.mn.us/tax-law-changes</loc>
@@ -164,18 +92,6 @@
   </url>
   <url>
     <loc>https://www.revenue.state.mn.us/minnesota-administrative-rules</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/where-my-refund</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.revenue.state.mn.us/efile-minnesota</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -199,8 +115,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://revenue.state.mn.us/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.state.mn.us/individual-income-tax/filing-requirements</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.state.mn.us/individual-income-tax/credits</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.state.mn.us/individual-income-tax/subtractions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.state.mn.us/business-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.state.mn.us/sales-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- added 2026-06-06 completeness audit -->
+  <url><loc>https://revenue.state.mn.us/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://www.revenue.state.mn.us/who-must-file-income-tax-return</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/residents</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/nonresidents</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/minnesota-taxable-income</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/estimated-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/filing-extensions</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/penalties-and-interest-individuals</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/amending-income-tax-return</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/fiduciary-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/income-tax-due-dates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/tax-professionals</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.state.mn.us/contact-us</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url>
     <loc>https://www.revenue.state.mn.us/error-rejection-codes</loc>

@@ -9,11 +9,7 @@
   <url><loc>https://edd.ca.gov/en/payroll_taxes/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-booklet.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ftb.ca.gov/forms/2024/2024-540-booklet.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ftb.ca.gov/file/personal/tax-calculator-tables-rates.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.ftb.ca.gov/forms/2025/2025-1031-publication.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.ftb.ca.gov/forms/2025/2025-1001-publication.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.ftb.ca.gov/forms/2025/2025-1005-publication.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
 
   
   <url><loc>https://www.ftb.ca.gov/forms/2025/2025-565-booklet.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -25,7 +21,6 @@
 
   
   <url><loc>https://www.ftb.ca.gov/file/business/credits/pass-through-entity-elective-tax/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.ftb.ca.gov/file/business/credits/pass-through-entity-elective-tax/help-with-pte-elective-tax.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
   <url><loc>https://www.ftb.ca.gov/tax-pros/law/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -33,15 +28,11 @@
   
   <url><loc>https://www.ftb.ca.gov/tax-pros/law/legal-rulings/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.ftb.ca.gov/tax-pros/law/chief-counsel-rulings/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.ftb.ca.gov/tax-pros/law/notices/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   
   <url><loc>https://www.ftb.ca.gov/file/personal/residency-status/index.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.ftb.ca.gov/forms/2025/2025-540-schedule-s-instructions.html</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ftb.ca.gov/file/business/types/partnerships/group-nonresident-return.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.cdtfa.ca.gov/industry/wayfair.htm</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
@@ -229,18 +220,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ftb.ca.gov/forms/2025/2025-540-ca-instructions.html</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ftb.ca.gov/forms/2025/2025-540-ca-instructions.html</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ftb.ca.gov/file/personal/income-types/capital-gains-and-losses.html</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -361,25 +340,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ftb.ca.gov/file/personal/residency-status/part-year-and-nonresident.html</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ftb.ca.gov/forms/2024/2024-1031-publication.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ftb.ca.gov/file/personal/residency-status/part-year-and-nonresident.html</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ftb.ca.gov/forms/2025/2025-540nr-ca-instructions.html</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -474,8 +435,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://ftb.ca.gov/file/personal/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/tax-calculator-tables-rates.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2024/2024-540-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540nr-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-1031-publication.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-1001-publication.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-1005-publication.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-565-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-568-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-100-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-100s-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/corporations/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/limited-liability-company/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/credits/pass-through-entity-elective-tax/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2024/2024-540-ca-instructions.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540-ca-instructions.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://cdtfa.ca.gov/industry/cannabis.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://edd.ca.gov/en/payroll_taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/about-ftb/newsroom/conformity/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/residency/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/partnerships/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/s-corporations/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/filing-status/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/income-types/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/e-file/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/pay/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/get-free-tax-help/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/extensions/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/penalties/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/amended-returns/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/about-ftb/newsroom/tax-news/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/exempt-organizations/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://boe.ca.gov/proptaxes/exemptions.htm</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://cdtfa.ca.gov/taxes-and-fees/sutprograms.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://edd.ca.gov/en/payroll_taxes/rates_and_withholding</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://taxes.ca.gov</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/nonresidents/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/foreign-corporations/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/itemized/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/standard/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/retirement/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/military/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/seniors/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/children/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/self-employed/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/real-estate/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/sole-proprietorships/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/audit/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/audit/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/appeals/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/help/legal-resources/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/net-operating-loss/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/net-operating-loss/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/disaster-loss/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/health-care-mandate/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/estimated-tax-payments/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/estimated-tax-payments/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/payroll/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/withholding/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/wage-withholding/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/registration/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/record-keeping/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/depreciating-assets/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/deductions/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/credits/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/trusts-and-estates/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/capital-gains/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/homeowners/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/employee-expenses/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/student/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/alimony/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/medical/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/charitable-contributions/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/casualty-theft-loss/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/young-child/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/earned-income/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/foster/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/renter/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/senior/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/child-dependent-care/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/college/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/electric-vehicle/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/solar/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/new-employment/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/hiring/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/research/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/enterprise-zone/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/low-income-housing/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/film/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/commercial-solar/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/orphan-drug/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/other/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
+  <url><loc>https://ftb.ca.gov/file/personal/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2024/2024-540-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540nr-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-565-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-568-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-100-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-100s-booklet.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/corporations/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/types/limited-liability-company/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/credits/pass-through-entity-elective-tax/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2024/2024-540-ca-instructions.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/forms/2025/2025-540-ca-instructions.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://edd.ca.gov/en/payroll_taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/deductions/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/credits/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/personal/filing-status/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/pay/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/about-ftb/newsroom/tax-news/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://edd.ca.gov/en/payroll_taxes/rates_and_withholding</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://taxes.ca.gov</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ftb.ca.gov/file/business/credits/index.html</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <url>
     <loc>https://www.ftb.ca.gov/forms/2024/2024-540-ca-instructions.html</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -668,18 +628,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ftb.ca.gov/forms/misc/593.pdf</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ftb.ca.gov/tax-pros/tax-preparers/ctec/index.html</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&amp;division=8.&amp;title=&amp;part=&amp;chapter=14.&amp;article=</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -760,12 +708,6 @@
   <url>
     <loc>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&amp;sectionNum=2416</loc>
     <lastmod>2026-07-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=&amp;chapter=14.&amp;division=8.&amp;lawCode=BPC&amp;part=&amp;title=</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -879,12 +821,6 @@
   </url>
   <url>
     <loc>https://edd.ca.gov/en/payroll_taxes/Determine_Taxable_Wages/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://edd.ca.gov/en/about_edd/news_releases_and_announcements/edd-reminds-customers-about-common-fraud-schemes-and-how-to-protect-personal-information/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

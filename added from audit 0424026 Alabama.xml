@@ -11,21 +11,15 @@
   <url><loc>https://www.revenue.alabama.gov/forms/?jsf=jet-engine:forms-grid&amp;tax=form_categories:30</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://www.revenue.alabama.gov/individual-corporate/corporate-income-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.revenue.alabama.gov/individual-corporate/business-privilege-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.revenue.alabama.gov/individual-corporate/pass-through-entities/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
   
   <url><loc>https://www.revenue.alabama.gov/individual-corporate/pass-through-entities/electing-pass-through-entity/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.revenue.alabama.gov/wp-content/uploads/2024/01/PTE-V-2024-Final.pdf</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
 
   
-  <url><loc>https://www.revenue.alabama.gov/rulings/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   
   <url><loc>https://www.revenue.alabama.gov/sales-use/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.revenue.alabama.gov/sales-use/sales-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.revenue.alabama.gov/sales-use/use-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.revenue.alabama.gov/sales-use/sellers-use-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.revenue.alabama.gov/sales-use/simplified-sellers-use-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
@@ -33,8 +27,6 @@
   <url><loc>https://www.revenue.alabama.gov/individual-corporate/withholding-tax/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://www.revenue.alabama.gov/individual-corporate/income-tax-incentives/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.revenue.alabama.gov/faqs/are-there-any-other-deductions-to-alabama-income/</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 
   
   <url><loc>https://www.revenue.alabama.gov/news/</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -45,8 +37,7 @@
   
   <url><loc>https://www.revenue.alabama.gov/faqs/</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <url><loc>https://revenue.alabama.gov/individual-use/income/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.alabama.gov/individual-use/income</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.alabama.gov/business-license/business/general-information</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.alabama.gov/individual-use/income/filing-information</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- added 2026-06-06 completeness audit -->
+<url><loc>https://revenue.alabama.gov/individual-use/income</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.alabama.gov/business-license/business/general-information</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://www.revenue.alabama.gov/individual-corporate/individual-income-tax-filing-information/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.alabama.gov/individual-corporate/due-dates/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.alabama.gov/tax-types/fiduciary-income-tax/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.alabama.gov/individual-corporate/individual-income-estimated-taxes/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://www.revenue.alabama.gov/individuals/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- added 2026-06-07 TY2025 form-currency pass -->

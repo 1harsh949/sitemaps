@@ -7,51 +7,9 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://otr.cfo.dc.gov/page/individual-income-and-fiduciary-tax-forms-and-publications</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://otr.cfo.dc.gov/page/business-tax-forms-and-publications</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/d-40-individual-income-tax-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/d-40b-nonresident-request-refund</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/d-20-corporation-franchise-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/d-30-unincorporated-business-franchise-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/tax-rates-and-tax-burdens</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/dc-individual-income-tax-rates</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
@@ -67,73 +25,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://otr.cfo.dc.gov/mytax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/franchise-tax-fr-128-extension-time-file</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/individual-income-tax-faqs</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/business-tax-faqs</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/real-property-taxpayers</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/personal-property-tax-forms</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/estates-and-trusts-tax-forms-and-publications</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/recorder-deeds-forms-and-publications</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://otr.cfo.dc.gov/node/447052</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/news-room-otr</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/tax-rates-changes-and-publication</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/page/payment-options-individual-income-tax</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -200,25 +92,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_D40_Book_Final_wLinks_030526_v1.0.pdf</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_D-20_Book_Final_wLinks_02272026.pdf</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://otr.cfo.dc.gov/page/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/business-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/real-property-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/tax-forms-and-publications</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/tax-rates</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/credits-and-deductions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/withholding-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/sales-and-use-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/franchise-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/estate-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/unclaimed-property</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/individual-income-tax-filing-and-payment-information</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/amended-returns</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/appeals</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/audit</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/tax-rulings</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/dc-tax-facts</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/senior-tax-relief</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/homestead-deduction</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/estimated-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
-    <loc>https://otr.cfo.dc.gov/es/mytaxdc</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url><loc>https://otr.cfo.dc.gov/page/business-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/tax-forms-and-publications</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/credits-and-deductions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/appeals</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/audit</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/dc-tax-facts</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://otr.cfo.dc.gov/page/homestead-deduction</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <url>
     <loc>https://otr.cfo.dc.gov/am/node/1349326</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>

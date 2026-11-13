@@ -19,52 +19,10 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/corporate-income-tax/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/pass-through-entity/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/withholding/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://mtrevenue.gov/forms/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/individual-income-tax/individual-income-tax-rates/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/individual-income-tax/credits/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/property-tax/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mtrevenue.gov/taxes/natural-resource-taxes/</loc>
@@ -79,64 +37,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/partnership/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/s-corporation/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/individual-income-tax/estimated-tax/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://mtrevenue.gov/online-services/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/miscellaneous-taxes/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/individual-income-tax/refund-information/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/lodging-facility/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/insurance-taxes/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/business-taxes/cigarette-tobacco/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mtrevenue.gov/taxes/individual-income-tax/forms/</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://mtrevenue.gov/publications/</loc>
@@ -145,7 +49,6 @@
     <priority>0.7</priority>
   </url>
 
-  <url><loc>https://mtrevenue.gov/taxes/income-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://mtrevenue.gov/taxes/income-taxes/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://mtrevenue.gov/taxes/income-taxes/corporate-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://revenue.mt.gov/taxes/individual-income-tax/filing-requirements</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.mt.gov/taxes/individual-income-tax/extensions</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.mt.gov/taxes/penalty-and-interest</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.mt.gov/taxes/individual-income-tax/amend</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.mt.gov/taxes/individual-income-tax/filing-options</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://revenue.mt.gov/contact/</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

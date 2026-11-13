@@ -26,12 +26,6 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://dor.wa.gov/taxes-rates/tax-incentives/credits/small-business-bo-tax-credit</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
   
   <url>
     <loc>https://dor.wa.gov/taxes-rates/retail-sales-tax</loc>
@@ -45,12 +39,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://dor.wa.gov/find-taxes-rates/retail-sales-tax/destination-based-sales-tax-and-streamlined-sales-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
   <url>
     <loc>https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax</loc>
@@ -58,19 +46,7 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax/capital-gains-tax-faqs</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
   
-  <url>
-    <loc>https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax/qualified-family-owned-small-business-deduction</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
   <url>
     <loc>https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax</loc>
@@ -98,52 +74,16 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dor.wa.gov/forms-publications/forms-subject/combined-excise-tax-return</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://dor.wa.gov/file-pay-taxes/file-or-amend-my-return</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://dor.wa.gov/forms-publications/forms-subject/business-occupation-tax-credit</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
-  <url>
-    <loc>https://dor.wa.gov/education/industry-guides/economic-nexus</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://dor.wa.gov/taxes-rates/business-occupation-tax/wholesaling-bo-tax</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
   
-  <url>
-    <loc>https://dor.wa.gov/taxes-rates/local-tax-rates-and-changes</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
   <url>
     <loc>https://dor.wa.gov/laws-rules/excise-tax-advisories</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dor.wa.gov/laws-rules/state-tax-laws</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -161,8 +101,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://dor.wa.gov/taxes-rates/sales-and-use-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/real-estate-excise-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/register-business</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/file-and-pay</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/get-a-license</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/account-maintenance</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/capital-gains-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/capital-gains-tax/capital-gains-tax-return</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/forms</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/industry-guides</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/other-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/business-types</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/sole-proprietorship</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/partnership</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/corporations</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/limited-liability-company</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/nonprofit</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/trusts-and-estates</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/businesses/exemptions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/leasehold-excise-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- added 2026-06-06 completeness audit -->
+<url><loc>https://dor.wa.gov/businesses</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/capital-gains-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/forms</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/other-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <!-- added 2026-06-06 completeness audit -->
   <url><loc>https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/file-pay-taxes/late-filing</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/contact</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/manage-business/my-account</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/sales-and-use-tax-rates</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/other-taxes/cigarette-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/taxes-rates/other-taxes/tobacco-products-tax</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://dor.wa.gov/forms-publications/publications-subject/special-notices</loc><lastmod>2026-06-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url>
     <loc>https://www.lni.wa.gov/licensing-permits/public-works-projects/</loc>

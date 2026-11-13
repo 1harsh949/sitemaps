@@ -32,30 +32,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://floridarevenue.com/taxes/taxesfees/Pages/communications_tax.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://floridarevenue.com/taxes/taxesfees/Pages/documentary_stamp.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://floridarevenue.com/taxes/taxesfees/Pages/insurance_premium.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://floridarevenue.com/property/Pages/default.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://floridarevenue.com/property/Pages/Taxpayers.aspx</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,19 +43,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://floridarevenue.com/property/Pages/TPP.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
   
-  <url>
-    <loc>https://floridarevenue.com/Forms_library/Pages/forms_index.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
   <url>
     <loc>https://floridarevenue.com/Forms_library/current/f1120.pdf</loc>
     <lastmod>2026-04-24</lastmod>
@@ -110,32 +74,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://floridarevenue.com/Forms_library/current/dr405.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://floridarevenue.com/Forms_library/current/dr501.pdf</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
-  <url>
-    <loc>https://floridarevenue.com/taxes/businesses/Pages/sales_oos.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
-  <url>
-    <loc>https://floridarevenue.com/taxes/Pages/tips.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
   
   <url>
     <loc>https://floridarevenue.com/property/Pages/LocalOfficials.aspx</loc>
@@ -152,12 +92,6 @@
   
   <url>
     <loc>https://floridarevenue.com/taxes/eservices/Pages/default.aspx</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://taxapps.floridarevenue.com/Registration/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -211,8 +145,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url><loc>https://floridarevenue.com/taxes/taxesfees</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/corporate_income_tax.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/sales_tax.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/doc_stamp.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/discretionary.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/reemployment.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/industry/pages/alcohol.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/industry/pages/tobacco.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/intangible.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/communications.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/forms/pages/current.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/eservices</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/real_property.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/fuel.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/dor/property</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
+<url><loc>https://floridarevenue.com/taxes/taxesfees</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/sales_tax.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/doc_stamp.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/discretionary.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/reemployment.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/eservices</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://floridarevenue.com/taxes/taxesfees/pages/fuel.aspx</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <url>
     <loc>https://floridarevenue.com/forms_library/current/rts3.pdf</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -251,19 +184,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://floridarevenue.com/Forms_library/current/brochure/gt800035.pdf</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.floridarevenue.com/taxes/taxesfees/Pages/rt_llc.aspx</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://floridarevenue.com/forms_library/current/rt800002.pdf</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
