@@ -12,7 +12,6 @@
   <url><loc>https://www.ncdor.gov/2024-d-400-individual-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   
-  <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/corporate-tax-forms-and-instructions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ncdor.gov/2024-cd-405-c-corporation-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ncdor.gov/2024-cd-401s-s-corporation-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -20,21 +19,15 @@
   
   <url><loc>https://www.ncdor.gov/taxes-forms/partnership-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ncdor.gov/2024-d-403-partnership-income-tax-return</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.ncdor.gov/taxed-pte</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/important-notice-impact-recently-enacted-house-bill-105-various-tax-schedules</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://www.ncdor.gov/documents/directives</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.ncdor.gov/documents/important-notices</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   
   <url><loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes/collection-assistance-fee-frequently-asked-questions</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.ncdor.gov/taxes-forms/collections-past-due-taxes</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.ncdor.gov/taxpayer-bill-rights</loc><lastmod>2026-04-24</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.ncdor.gov/taxes-forms/penalties-and-interest</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
-  <url><loc>https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-credits</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   
   <url><loc>https://www.ncdor.gov/taxes-forms/sales-and-use-tax</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -97,15 +90,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url><loc>https://ncdor.gov/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/individual-income-tax-forms</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/filing-requirements</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/tax-credits</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/deductions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/business-taxes</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/business-taxes/corporate-income-franchise-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/business-taxes/sales-and-use-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/business-taxes/withholding-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/business-taxes/partnership-and-s-corporation-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax/withholding-tax-forms-and-instructions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax/enc3-frequently-asked-questions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/documents/forms/amended-annual-withholding-reconciliation/open</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/documents/files/nc-5x-amended-withholding-return-0/open</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/part-year-residents-and-nonresidents</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/extensions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/estimated-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/amended-returns</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/military-tax-information</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/individual-income-tax/property-tax-homestead-exclusion</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
+<url><loc>https://ncdor.gov/individual-income-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax/withholding-tax-forms-and-instructions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/taxes-forms/withholding-tax/enc3-frequently-asked-questions</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url><loc>https://ncdor.gov/documents/files/nc-5x-amended-withholding-return-0/open</loc><lastmod>2026-05-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>  <url>
     <loc>https://www.ncdor.gov/documents/files/nc-5x-amended-withholding-return-0/open</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ncdor.gov/documents/forms/amended-annual-withholding-reconciliation/open</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

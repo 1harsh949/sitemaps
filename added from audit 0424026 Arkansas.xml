@@ -13,12 +13,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dfa.arkansas.gov/income-tax/corporate-income-tax</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,12 +116,6 @@
   </url>
   <url>
     <loc>https://www.dfa.arkansas.gov/office/taxes/excise-tax/</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.dfa.arkansas.gov/office/taxes/other-taxes/</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
